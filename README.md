@@ -2,11 +2,13 @@
 
 Useful clothing data for FiveM around GTA:V clothing. Static data and clothing images, organised by collections. Similar to [v-clothingnames](https://github.com/root-cause/v-clothingnames) but with the intention to fill in the gaps and add additional useful properties to relevant items of clothing. Images are taken using a custom script (will probably release at a later point) based on [fivem-greenscreener](https://github.com/Bentix-cs/fivem-greenscreener) with manual editing where needed.
 
+> #### Game Build: 3407 
+
 ## To Do
 - [ ] Upload base collection images
 - [x] Upload MP Drawables JSON
     - [ ] Check all static data
-- [ ] Upload MP Props JSON
+- [x] Upload MP Props JSON
     - [ ] Check all static data
 
 <img src="https://raw.githubusercontent.com/Colbss/FiveM-ClothingData/refs/heads/master/images/mp_m_freemode_01/base/D_11_0_1.webp" width="200"> <img src="https://raw.githubusercontent.com/Colbss/FiveM-ClothingData/refs/heads/master/images/mp_m_freemode_01/base/D_6_12_0.webp" width="200">
@@ -20,7 +22,7 @@ Images can be used using follwing link:
 > `https://raw.githubusercontent.com/Colbss/FiveM-ClothingData/refs/heads/master/images/{MODEL}/{COLLECTION}/{PREFIX}_{COMPONENT/PROP_TYPE}_{MODEL_INDEX}_{TEXTURE_INDEX}.webp`
 
 ## Clothing Data
-All data for a single model / ped is split between a drawables and a props json. Within each collection the clothing is organized by string-based component / prop type indexes for ease of traversal (note the images uses number based component type index, refer to component / prop index maps below).
+All data for a single model / ped is split between a drawables and a props json. Within each collection the clothing is organized by string-based component / prop type indexes for readability (note the images use number based component type indexes, refer to the index maps below).
 
 ### Drawable Indexes
 |Number Index|String Index|Human-Readable|
