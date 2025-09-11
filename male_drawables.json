@@ -2,178 +2,145 @@
 	"": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 0,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": false,
+				"isBlank": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "None"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 1,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Pink Pig"
+						"label": "Pink Pig Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Brown Pig"
+						"label": "Brown Pig Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Bloody Pig"
+						"label": "Bloody Pig Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Black Pig"
+						"label": "Black Pig Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 2,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Silver Skull"
+						"label": "Silver Skull Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Bone Skull"
+						"label": "Bone Skull Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Gray Skull"
+						"label": "Gray Skull Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Black Skull"
+						"label": "Black Skull Mask"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 3,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Pogo"
 					}
 				}
 			},
 			"4": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 4,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "White Hockey"
+						"label": "White Hockey Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Red Hockey"
+						"label": "Red Hockey Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Black Bloody Hockey"
+						"label": "Black Bloody Hockey Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Dust Devils Hockey"
+						"label": "Dust Devils Hockey Mask"
 					}
 				}
 			},
 			"5": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 5,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Tan Ape"
+						"label": "Tan Ape Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Brown Ape"
+						"label": "Brown Ape Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Green Ape"
+						"label": "Green Ape Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Pink Ape"
+						"label": "Pink Ape Mask"
 					}
 				}
 			},
 			"6": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 6,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Green Carnival"
+						"label": "Green Carnival Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "White Carnival"
+						"label": "White Carnival Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Blue Carnival"
+						"label": "Blue Carnival Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Black Carnival"
+						"label": "Black Carnival Mask"
 					}
 				}
 			},
 			"7": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 7,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Green Monster"
+						"label": "Green Monster Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Red Monster"
+						"label": "Red Monster Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Black Monster"
+						"label": "Black Monster Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "White Monster"
+						"label": "White Monster Mask"
 					}
 				}
 			}
@@ -6016,48 +5983,40 @@
 	"Male_xmas": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 8,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "White Santa"
+						"label": "White Santa Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Black Santa"
+						"label": "Black Santa Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Latino Santa"
+						"label": "Latino Santa Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 9,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Reindeer Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 10,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Snowman Mask"
 					}
 				}
@@ -6209,57 +6168,47 @@
 	"Male_freemode_valentines": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 11,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": false,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "White Mysterious"
+						"label": "White Mysterious Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Red Mysterious"
+						"label": "Red Mysterious Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Black Mysterious"
+						"label": "Black Mysterious Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 12,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Bronze Masquerade"
+						"label": "Bronze Masquerade Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Silver Masquerade"
+						"label": "Silver Masquerade Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Black & Gold Masquerade"
+						"label": "Black & Gold Masquerade Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 13,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Cupid"
+						"label": "Cupid Mask"
 					}
 				}
 			}
@@ -6522,145 +6471,122 @@
 	"Male_freemode_business": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 14,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Bullet Hockey"
+						"label": "Bullet Hockey Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Vinewood Hockey"
+						"label": "Vinewood Hockey Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Tourist Hockey"
+						"label": "Tourist Hockey Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Hound Hockey"
+						"label": "Hound Hockey Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Wolf Hockey"
+						"label": "Wolf Hockey Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Beast Hockey"
+						"label": "Beast Hockey Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Bear Hockey"
+						"label": "Bear Hockey Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Dust Devils Hockey"
+						"label": "Dust Devils Hockey Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Striped Rampage Hockey"
+						"label": "Striped Rampage Hockey Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Royal Hockey"
+						"label": "Royal Hockey Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Fashion Hockey"
+						"label": "Fashion Hockey Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Vile Zombie Hockey"
+						"label": "Vile Zombie Hockey Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Rotten Zombie Hockey"
+						"label": "Rotten Zombie Hockey Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Flame Skull Hockey"
+						"label": "Flame Skull Hockey Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Nightmare Skull Hockey"
+						"label": "Nightmare Skull Hockey Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Electric Skull Hockey"
+						"label": "Electric Skull Hockey Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 15,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Skull Hockey"
+						"label": "Skull Hockey Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Stitched Hockey"
+						"label": "Stitched Hockey Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Pale Stitched Hockey"
+						"label": "Pale Stitched Hockey Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Crossed Rampage Hockey"
+						"label": "Crossed Rampage Hockey Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 16,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
-						"label": "Metal Warrior"
+						"label": "Metal Warrior Mask"
 					},
 					"1": {
 						"isBlank": "NULL",
-						"label": "Circuit Warrior"
+						"label": "Circuit Warrior Mask"
 					},
 					"2": {
 						"isBlank": "NULL",
-						"label": "Molten Warrior"
+						"label": "Molten Warrior Mask"
 					},
 					"3": {
 						"isBlank": "NULL",
-						"label": "Neon Warrior"
+						"label": "Neon Warrior Mask"
 					},
 					"4": {
 						"isBlank": "NULL",
-						"label": "Carbon Warrior"
+						"label": "Carbon Warrior Mask"
 					},
 					"5": {
 						"isBlank": "NULL",
-						"label": "Deadeye Warrior"
+						"label": "Deadeye Warrior Mask"
 					},
 					"6": {
 						"isBlank": "NULL",
-						"label": "Stone Warrior"
+						"label": "Stone Warrior Mask"
 					},
 					"7": {
 						"isBlank": "NULL",
-						"label": "Lightning Warrior"
+						"label": "Lightning Warrior Mask"
 					},
 					"8": {
 						"isBlank": "NULL",
-						"label": "Wooden Warrior"
+						"label": "Wooden Warrior Mask"
 					}
 				}
 			}
@@ -8657,70 +8583,58 @@
 	"Male_freemode_hipster": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 17,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Gray Cat"
+						"label": "Gray Cat Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Tabby Cat"
+						"label": "Tabby Cat Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 18,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Red Fox"
+						"label": "Red Fox Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Brown Fox"
+						"label": "Brown Fox Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 19,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Brown Owl"
+						"label": "Brown Owl Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "White Owl"
+						"label": "White Owl Mask"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 20,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Gray Racoon"
+						"label": "Gray Racoon Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Black Racoon"
+						"label": "Black Racoon Mask"
 					}
 				}
 			}
@@ -9560,104 +9474,86 @@
 	"Male_freemode_independence": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 21,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Brown Bear"
+						"label": "Brown Bear Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Grey Bear"
+						"label": "Grey Bear Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 22,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Brown Bison"
+						"label": "Brown Bison Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Golden Bison"
+						"label": "Golden Bison Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 23,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Black Bull"
+						"label": "Black Bull Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Brown Bull"
+						"label": "Brown Bull Mask"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 24,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Brown Eagle"
+						"label": "Brown Eagle Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "White Eagle"
+						"label": "White Eagle Mask"
 					}
 				}
 			},
 			"4": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 25,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Pink Vulture"
+						"label": "Pink Vulture Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Black Vulture"
+						"label": "Black Vulture Mask"
 					}
 				}
 			},
 			"5": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 26,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Grey Wolf"
+						"label": "Grey Wolf Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Black Wolf"
+						"label": "Black Wolf Mask"
 					}
 				}
 			}
@@ -9911,14 +9807,12 @@
 	"Male_freemode_Pilot": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 27,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": false,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Flight Cap"
 					}
 				}
@@ -11017,73 +10911,59 @@
 	"Male_freemode_mpLTS": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 28,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Black Combat Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "Gray Combat Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Charcoal Combat Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Tan Combat Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Forest Combat Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 29,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Black Skeletal"
+						"label": "Black Skeletal Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Gray Skeletal"
+						"label": "Gray Skeletal Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Charcoal Skeletal"
+						"label": "Charcoal Skeletal Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Tan Skeletal"
+						"label": "Tan Skeletal Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Green Skeletal"
+						"label": "Green Skeletal Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 30,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Please Stop Me Hockey"
+						"label": "Please Stop Me Hockey Mask"
 					}
 				}
 			}
@@ -12276,62 +12156,52 @@
 	"Male_xmas2": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 31,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Penguin"
+						"label": "Penguin Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 32,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Stocking"
+						"label": "Stocking Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 33,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Gingerbread"
+						"label": "Gingerbread Mask"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 34,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "White Elf"
+						"label": "White Elf Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Black Elf"
+						"label": "Black Elf Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Latino Elf"
+						"label": "Latino Elf Mask"
 					}
 				}
 			}
@@ -12713,793 +12583,625 @@
 	"Male_Heist": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 35,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Night Vision"
+						"label": "Night Vision Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 36,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": false,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Rebreather"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 37,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Scruffy Balaclava"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 38,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Gas Mask"
 					}
 				}
 			},
 			"4": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 39,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Pink Infected"
+						"label": "Pink Infected Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Brown Infected"
+						"label": "Brown Infected Mask"
 					}
 				}
 			},
 			"5": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 40,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "White Mummy"
+						"label": "White Mummy Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Green Mummy"
+						"label": "Green Mummy Mask"
 					}
 				}
 			},
 			"6": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 41,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "White Vampyr"
+						"label": "White Vampyr Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Blue Vampyr"
+						"label": "Blue Vampyr Mask"
 					}
 				}
 			},
 			"7": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 42,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Pale Frank"
+						"label": "Pale Frank Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Gray Frank"
+						"label": "Gray Frank Mask"
 					}
 				}
 			},
 			"8": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 43,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Impotent Rage"
+						"label": "Impotent Rage Mask"
 					}
 				}
 			},
 			"9": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 44,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Princess Robot Bubblegum"
+						"label": "Princess Robot Bubblegum Mask"
 					}
 				}
 			},
 			"10": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 45,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Moorehead"
+						"label": "Moorehead Mask"
 					}
 				}
 			},
 			"11": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 46,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Chemical Mask"
 					}
 				}
 			},
 			"12": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 47,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Crime Scene Tape"
+						"label": "Crime Scene Tape Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Black Arrow Tape"
+						"label": "Black Arrow Tape Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Hazard Tape"
+						"label": "Hazard Tape Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Red Arrow Tape"
+						"label": "Red Arrow Tape Mask"
 					}
 				}
 			},
 			"13": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 48,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Light Gray Duct Tape"
+						"label": "Light Gray Duct Tape Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Dark Gray Duct Tape"
+						"label": "Dark Gray Duct Tape Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "White Duct Tape"
+						"label": "White Duct Tape Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Electrical Duct Tape"
+						"label": "Electrical Duct Tape Mask"
 					}
 				}
 			},
 			"14": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 49,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Up-n-Atom Paper Bag"
+						"label": "Up-n-Atom Paper Bag Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Manic Paper Bag"
+						"label": "Manic Paper Bag Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Sad Paper Bag"
+						"label": "Sad Paper Bag Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Happy Paper Bag"
+						"label": "Happy Paper Bag Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Fat Cat Paper Bag"
+						"label": "Fat Cat Paper Bag Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Mouth Paper Bag"
+						"label": "Mouth Paper Bag Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Shy Paper Bag"
+						"label": "Shy Paper Bag Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Burger Shot Paper Bag"
+						"label": "Burger Shot Paper Bag Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Kill Me Paper Bag"
+						"label": "Kill Me Paper Bag Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Diabolic Paper Bag"
+						"label": "Diabolic Paper Bag Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Cop Paper Bag"
+						"label": "Cop Paper Bag Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Monster Paper Bag"
+						"label": "Monster Paper Bag Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Fury Paper Bag"
+						"label": "Fury Paper Bag Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Zigzag Paper Bag"
+						"label": "Zigzag Paper Bag Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Skull Paper Bag"
+						"label": "Skull Paper Bag Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Dog Paper Bag"
+						"label": "Dog Paper Bag Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Pink Paper Bag"
+						"label": "Pink Paper Bag Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Alien Paper Bag"
+						"label": "Alien Paper Bag Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Help Me Paper Bag"
+						"label": "Help Me Paper Bag Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Puzzle Paper Bag"
+						"label": "Puzzle Paper Bag Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "The Bird Paper Bag"
+						"label": "The Bird Paper Bag Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Dapper Paper Bag"
+						"label": "Dapper Paper Bag Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "Sticker Paper Bag"
+						"label": "Sticker Paper Bag Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "Modernist Paper Bag"
+						"label": "Modernist Paper Bag Mask"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "Love Paper Bag"
+						"label": "Love Paper Bag Mask"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "Blackout Paper Bag"
+						"label": "Blackout Paper Bag Mask"
 					}
 				}
 			},
 			"15": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 50,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Green Plastic Face"
+						"label": "Green Plastic Face Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "The Don Plastic Face"
+						"label": "The Don Plastic Face Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Pink Plastic Face"
+						"label": "Pink Plastic Face Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Clown Plastic Face"
+						"label": "Clown Plastic Face Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Black Plastic Face"
+						"label": "Black Plastic Face Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Brown Plastic Face"
+						"label": "Brown Plastic Face Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Mannequin Plastic Face"
+						"label": "Mannequin Plastic Face Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Doll Plastic Face"
+						"label": "Doll Plastic Face Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Puppet Plastic Face"
+						"label": "Puppet Plastic Face Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Mime Plastic Face"
+						"label": "Mime Plastic Face Mask"
 					}
 				}
 			},
 			"16": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 51,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Black Face Bandana"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "Skull Face Bandana"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Urban Face Bandana"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Desert Face Bandana"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Forest Face Bandana"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Green Face Bandana"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Purple Face Bandana"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Paisley Face Bandana"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "Yellow Face Bandana"
 					},
 					"9": {
-						"isBlank": "NULL",
 						"label": "Electric Skull Face Bandana"
 					}
 				}
 			},
 			"17": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 52,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Black Tight Ski"
+						"label": "Black Tight Ski Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Gray Tight Ski"
+						"label": "Gray Tight Ski Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "White Tight Ski"
+						"label": "White Tight Ski Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Green Tight Ski"
+						"label": "Green Tight Ski Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Khaki Tight Ski"
+						"label": "Khaki Tight Ski Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Charcoal Tight Ski"
+						"label": "Charcoal Tight Ski Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Forest Tight Ski"
+						"label": "Forest Tight Ski Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Urban Tight Ski"
+						"label": "Urban Tight Ski Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Blue Tight Ski"
+						"label": "Blue Tight Ski Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Yellow Tight Ski"
+						"label": "Yellow Tight Ski Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Skull Tight Ski"
+						"label": "Skull Tight Ski Mask"
 					}
 				}
 			},
 			"18": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 53,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Black Hooded Ski"
+						"label": "Black Hooded Ski Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Gray Hooded Ski"
+						"label": "Gray Hooded Ski Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "White Hooded Ski"
+						"label": "White Hooded Ski Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Green Hooded Ski"
+						"label": "Green Hooded Ski Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Khaki Hooded Ski"
+						"label": "Khaki Hooded Ski Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Charcoal Hooded Ski"
+						"label": "Charcoal Hooded Ski Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Forest Hooded Ski"
+						"label": "Forest Hooded Ski Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Urban Hooded Ski"
+						"label": "Urban Hooded Ski Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Skull Hooded Ski"
+						"label": "Skull Hooded Ski Mask"
 					}
 				}
 			},
 			"19": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 54,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Black T-Shirt Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "White T-Shirt Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Tan T-Shirt Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Benders T-Shirt Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Justice T-Shirt Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Woodland T-Shirt Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Stripy T-Shirt Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Love Fist T-Shirt Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "TPI T-Shirt Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
 						"label": "Pink Camo T-Shirt Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
 						"label": "LSPD T-Shirt Mask"
 					}
 				}
 			},
 			"20": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 55,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Charcoal Toggle Ski"
+						"label": "Charcoal Toggle Ski Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Khaki Toggle Ski"
+						"label": "Khaki Toggle Ski Mask"
 					}
 				}
 			},
 			"21": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 56,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Blue Loose Balaclava"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "Black Loose Balaclava"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Skull Loose Balaclava"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Khaki Loose Balaclava"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Bloody Loose Balaclava"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Woodland Loose Balaclava"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Red Loose Balaclava"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Outback Loose Balaclava"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "Split Loose Balaclava"
 					}
 				}
 			},
 			"22": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 57,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Black Knit Balaclava"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "Army Green Knit Balaclava"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Copper Knit Balaclava"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Gray Knit Balaclava"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Brown Knit Balaclava"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Rainbow Knit Balaclava"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Woodland Knit Balaclava"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Dirty Knit Balaclava"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "Pink Knit Balaclava"
 					},
 					"9": {
-						"isBlank": "NULL",
 						"label": "Flying Bravo FB Balaclava"
 					},
 					"10": {
-						"isBlank": "NULL",
 						"label": "Flying Bravo Balaclava"
 					},
 					"11": {
-						"isBlank": "NULL",
 						"label": "Princess Balaclava"
 					},
 					"12": {
-						"isBlank": "NULL",
 						"label": "Didier Sachs Balaclava"
 					},
 					"13": {
-						"isBlank": "NULL",
 						"label": "Perseus Band Balaclava"
 					},
 					"14": {
-						"isBlank": "NULL",
 						"label": "Perseus Balaclava"
 					},
 					"15": {
-						"isBlank": "NULL",
 						"label": "Sessanta Nove Balaclava"
 					},
 					"16": {
-						"isBlank": "NULL",
 						"label": "White Knit Balaclava"
 					},
 					"17": {
-						"isBlank": "NULL",
 						"label": "Blue Knit Balaclava"
 					},
 					"18": {
-						"isBlank": "NULL",
 						"label": "Red Knit Balaclava"
 					},
 					"19": {
-						"isBlank": "NULL",
 						"label": "Green Knit Balaclava"
 					},
 					"20": {
-						"isBlank": "NULL",
 						"label": "Orange Knit Balaclava"
 					},
 					"21": {
-						"isBlank": "NULL",
 						"label": "Purple Knit Balaclava"
 					}
 				}
 			},
 			"23": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 58,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Bandit Knit Balaclava"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "Nature Knit Balaclava"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Neon Camo Knit Balaclava"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Pink Camo Knit Balaclava"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Orange Camo Knit Balaclava"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Impotent Rage Balaclava"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Pogo Balaclava"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Blue Stripe Knit Balaclava"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "Black Stripe Knit Balaclava"
 					},
 					"9": {
-						"isBlank": "NULL",
 						"label": "Pink Stripe Knit Balaclava"
 					}
 				}
@@ -17934,15 +17636,14 @@
 	"mp_m_htb_01": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 59,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Tan Beast Mask"
 					}
 				}
 			}
@@ -18519,275 +18220,223 @@
 	"Male_freemode_Halloween": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 60,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Evil Pumpkin"
+						"label": "Evil Pumpkin Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Rotten Pumpkin"
+						"label": "Rotten Pumpkin Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Nasty Watermelon"
+						"label": "Nasty Watermelon Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 61,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Creepy Butler"
+						"label": "Creepy Butler Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Dead Butler"
+						"label": "Dead Butler Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Rotten Butler"
+						"label": "Rotten Butler Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 62,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "White Scalded Psycho"
+						"label": "White Scalded Psycho Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Bloody Scalded Psycho"
+						"label": "Bloody Scalded Psycho Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Black Scalded Psycho"
+						"label": "Black Scalded Psycho Mask"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 63,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Red Flayed Demon"
+						"label": "Red Flayed Demon Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Green Flayed Demon"
+						"label": "Green Flayed Demon Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Gray Flayed Demon"
+						"label": "Gray Flayed Demon Mask"
 					}
 				}
 			},
 			"4": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 64,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "White Skull Burst"
+						"label": "White Skull Burst Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Red Skull Burst"
+						"label": "Red Skull Burst Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Cream Skull Burst"
+						"label": "Cream Skull Burst Mask"
 					}
 				}
 			},
 			"5": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 65,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Pale Lycanthrope"
+						"label": "Pale Lycanthrope Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Dark Lycanthrope"
+						"label": "Dark Lycanthrope Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Gray Lycanthrope"
+						"label": "Gray Lycanthrope Mask"
 					}
 				}
 			},
 			"6": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 66,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Green Toxic Insect"
+						"label": "Green Toxic Insect Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Red Toxic Insect"
+						"label": "Red Toxic Insect Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Purple Toxic Insect"
+						"label": "Purple Toxic Insect Mask"
 					}
 				}
 			},
 			"7": {
 				"VERIFIED": "FALSE",
 				"globalId": 67,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Dirty Sewer Creature"
+						"label": "Dirty Sewer Creature Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Rotten Sewer Creature"
+						"label": "Rotten Sewer Creature Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Scabby Sewer Creature"
+						"label": "Scabby Sewer Creature Mask"
 					}
 				}
 			},
 			"8": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 68,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Red Classic Lucifer"
+						"label": "Red Classic Lucifer Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Orange Classic Lucifer"
+						"label": "Orange Classic Lucifer Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Black Classic Lucifer"
+						"label": "Black Classic Lucifer Mask"
 					}
 				}
 			},
 			"9": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 69,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Classic Sack Slasher"
+						"label": "Classic Sack Slasher Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Bloody Sack Slasher"
+						"label": "Bloody Sack Slasher Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Black Sack Slasher"
+						"label": "Black Sack Slasher Mask"
 					}
 				}
 			},
 			"10": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 70,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Blue Hypnotic Alien"
+						"label": "Blue Hypnotic Alien Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Green Hypnotic Alien"
+						"label": "Green Hypnotic Alien Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Red Hypnotic Alien"
+						"label": "Red Hypnotic Alien Mask"
 					}
 				}
 			},
 			"11": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 71,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Yellow Haggard Witch"
+						"label": "Yellow Haggard Witch Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Gray Haggard Witch"
+						"label": "Gray Haggard Witch Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "White Haggard Witch"
+						"label": "White Haggard Witch Mask"
 					}
 				}
 			},
 			"12": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 72,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Red Bearded Lucifer"
+						"label": "Red Bearded Lucifer Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Orange Bearded Lucifer"
+						"label": "Orange Bearded Lucifer Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Black Bearded Lucifer"
+						"label": "Black Bearded Lucifer Mask"
 					}
 				}
 			}
@@ -18796,14 +18445,13 @@
 	"Male_Apt01": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 73,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": false,
+				"isBlank": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "NULL"
 					}
 				}
@@ -19942,321 +19590,260 @@
 	"mp_m_xmas_03": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 74,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Manic Gingerbread"
+						"label": "Manic Gingerbread Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Mad Gingerbread"
+						"label": "Mad Gingerbread Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Angry Gingerbread"
+						"label": "Angry Gingerbread Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 75,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Pink Crazy Gingerbread"
+						"label": "Pink Crazy Gingerbread Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Blue Crazy Gingerbread"
+						"label": "Blue Crazy Gingerbread Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Brown Crazy Gingerbread"
+						"label": "Brown Crazy Gingerbread Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 76,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Bruised Bad Santa"
+						"label": "Bruised Bad Santa Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Grumpy Bad Santa"
+						"label": "Grumpy Bad Santa Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Filthy Bad Santa"
+						"label": "Filthy Bad Santa Mask"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 77,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Green Festive Luchador"
+						"label": "Green Festive Luchador Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Dark Green Festive Luchador"
+						"label": "Dark Green Festive Luchador Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Black Festive Luchador"
+						"label": "Black Festive Luchador Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "White Festive Luchador"
+						"label": "White Festive Luchador Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Red Festive Luchador"
+						"label": "Red Festive Luchador Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Purple Festive Luchador"
+						"label": "Purple Festive Luchador Mask"
 					}
 				}
 			},
 			"4": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 78,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Dark Pudding"
+						"label": "Dark Pudding Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Light Pudding"
+						"label": "Light Pudding Mask"
 					}
 				}
 			},
 			"5": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 79,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Brown Beast"
+						"label": "Brown Beast Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Blond Beast"
+						"label": "Blond Beast Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Silver Beast"
+						"label": "Silver Beast Mask"
 					}
 				}
 			},
 			"6": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 80,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Black LS Beast"
+						"label": "Black LS Beast Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Red LS Beast"
+						"label": "Red LS Beast Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "White LS Beast"
+						"label": "White LS Beast Mask"
 					}
 				}
 			},
 			"7": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 81,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Red Visor Beast"
+						"label": "Red Visor Beast Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "LS Visor Beast"
+						"label": "LS Visor Beast Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Brown Visor Beast"
+						"label": "Brown Visor Beast Mask"
 					}
 				}
 			},
 			"8": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 82,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "White Sweatband Beast"
+						"label": "White Sweatband Beast Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Patriot Sweatband Beast"
+						"label": "Patriot Sweatband Beast Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Blue Sweatband Beast"
+						"label": "Blue Sweatband Beast Mask"
 					}
 				}
 			},
 			"9": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 83,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Classic Festive Beast"
+						"label": "Classic Festive Beast Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Brown Festive Beast"
+						"label": "Brown Festive Beast Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Blond Festive Beast"
+						"label": "Blond Festive Beast Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Silver Festive Beast"
+						"label": "Silver Festive Beast Mask"
 					}
 				}
 			},
 			"10": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 84,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Abominable Snowman"
+						"label": "Abominable Snowman Mask"
 					}
 				}
 			},
 			"11": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 85,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Raw Turkey"
+						"label": "Raw Turkey Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Cooked Turkey"
+						"label": "Cooked Turkey Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Burnt Turkey"
+						"label": "Burnt Turkey Mask"
 					}
 				}
 			},
 			"12": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 86,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Wasted Mrs Claus"
+						"label": "Wasted Mrs Claus Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Smashed Mrs Claus"
+						"label": "Smashed Mrs Claus Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "High Mrs Claus"
+						"label": "High Mrs Claus Mask"
 					}
 				}
 			},
 			"13": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 87,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Rebel Bad Elf"
+						"label": "Rebel Bad Elf Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Gangsta Bad Elf"
+						"label": "Gangsta Bad Elf Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Badass Bad Elf"
+						"label": "Badass Bad Elf Mask"
 					}
 				}
 			},
 			"14": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 88,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "White Mrs Claus"
+						"label": "White Mrs Claus Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Black Mrs Claus"
+						"label": "Black Mrs Claus Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Latino Mrs Claus"
+						"label": "Latino Mrs Claus Mask"
 					}
 				}
 			}
@@ -24108,30 +23695,24 @@
 	"mp_m_stunt_01": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 89,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Black Combat Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "Gray Combat Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Charcoal Combat Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Tan Combat Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Forest Combat Mask"
 					}
 				}
@@ -25345,43 +24926,34 @@
 	"mp_m_bikerdlc_01": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 90,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Ox Blood Dome Filter"
+						"label": "Ox Blood Dome Filter Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Chocolate Dome Filter"
+						"label": "Chocolate Dome Filter Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Black Dome Filter"
+						"label": "Black Dome Filter Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Tan Dome Filter"
+						"label": "Tan Dome Filter Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Ox Blood Dome Vent"
+						"label": "Ox Blood Dome Vent Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Chocolate Dome Vent"
+						"label": "Chocolate Dome Vent Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Black Dome Vent"
+						"label": "Black Dome Vent Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Tan Dome Vent"
+						"label": "Tan Dome Vent Mask"
 					}
 				}
 			}
@@ -28375,426 +27947,335 @@
 	"mp_m_importexport_01": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 91,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Tan Armored Rhino Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Armored Rhino Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Armored Rhino Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Blue Armored Rhino Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Armored Rhino Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Red Armored Rhino Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Armored Rhino Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Gray Armored Rhino Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Sand Armored Rhino Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "White Armored Rhino Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Black Armored Rhino Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 92,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Amphibian Sea Beast"
+						"label": "Amphibian Sea Beast Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Alien Sea Beast"
+						"label": "Alien Sea Beast Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Reptilian Sea Beast"
+						"label": "Reptilian Sea Beast Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Otherworldly Sea Beast"
+						"label": "Otherworldly Sea Beast Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Deity Sea Beast"
+						"label": "Deity Sea Beast Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Infernal Sea Beast"
+						"label": "Infernal Sea Beast Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 93,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Striped Dino"
+						"label": "Striped Dino Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Gray Dino"
+						"label": "Gray Dino Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Tropical Dino"
+						"label": "Tropical Dino Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Earth Dino"
+						"label": "Earth Dino Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Rainforest Dino"
+						"label": "Rainforest Dino Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Danger Dino"
+						"label": "Danger Dino Mask"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 94,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Red Oni"
+						"label": "Red Oni Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Blue Oni"
+						"label": "Blue Oni Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "White Oni"
+						"label": "White Oni Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Black Oni"
+						"label": "Black Oni Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Gold Oni"
+						"label": "Gold Oni Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Green Oni"
+						"label": "Green Oni Mask"
 					}
 				}
 			},
 			"4": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 95,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Red Clown"
+						"label": "Red Clown Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Blue Clown"
+						"label": "Blue Clown Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Green Clown"
+						"label": "Green Clown Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Orange Clown"
+						"label": "Orange Clown Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Scavenger Clown"
+						"label": "Scavenger Clown Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Neon Clown"
+						"label": "Neon Clown Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Franken Clown"
+						"label": "Franken Clown Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Sinister Clown"
+						"label": "Sinister Clown Mask"
 					}
 				}
 			},
 			"5": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 96,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Silverback Crazed Ape"
+						"label": "Silverback Crazed Ape Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Orangutan Crazed Ape"
+						"label": "Orangutan Crazed Ape Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Gray Crazed Ape"
+						"label": "Gray Crazed Ape Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Albino Crazed Ape"
+						"label": "Albino Crazed Ape Mask"
 					}
 				}
 			},
 			"6": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 97,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Chestnut Horse"
+						"label": "Chestnut Horse Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Black Horse"
+						"label": "Black Horse Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Gray Horse"
+						"label": "Gray Horse Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Brown Horse"
+						"label": "Brown Horse Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Pinto Horse"
+						"label": "Pinto Horse Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Zebra"
+						"label": "Zebra Mask"
 					}
 				}
 			},
 			"7": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 98,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Unicorn"
+						"label": "Unicorn Mask"
 					}
 				}
 			},
 			"8": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 99,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Red Ornate Skull"
+						"label": "Red Ornate Skull Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Silver Ornate Skull"
+						"label": "Silver Ornate Skull Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Blue Ornate Skull"
+						"label": "Blue Ornate Skull Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Teal Ornate Skull"
+						"label": "Teal Ornate Skull Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "White Ornate Skull"
+						"label": "White Ornate Skull Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Black Ornate Skull"
+						"label": "Black Ornate Skull Mask"
 					}
 				}
 			},
 			"9": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 100,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Moe Pug"
+						"label": "Moe Pug Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Black Pug"
+						"label": "Black Pug Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Gray Pug"
+						"label": "Gray Pug Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Brown Pug"
+						"label": "Brown Pug Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Josephine Pug"
+						"label": "Josephine Pug Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Black and Tan Pug"
+						"label": "Black and Tan Pug Mask"
 					}
 				}
 			},
 			"10": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 101,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Orange Bigness Face"
+						"label": "Orange Bigness Face Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Blue Bigness Face"
+						"label": "Blue Bigness Face Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Magenta Bigness Face"
+						"label": "Magenta Bigness Face Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Yellow Bigness Face"
+						"label": "Yellow Bigness Face Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Fall Bigness Face"
+						"label": "Fall Bigness Face Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Gray Bigness Face"
+						"label": "Gray Bigness Face Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Camo Bigness Face"
+						"label": "Camo Bigness Face Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Gray Camo Bigness Face"
+						"label": "Gray Camo Bigness Face Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Geo Camo Bigness Face"
+						"label": "Geo Camo Bigness Face Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Black Bigness Face"
+						"label": "Black Bigness Face Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Zebra Bigness Face"
+						"label": "Zebra Bigness Face Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Bold Abstract Bigness Face"
+						"label": "Bold Abstract Bigness Face Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Pale Abstract Bigness Face"
+						"label": "Pale Abstract Bigness Face Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Gray Abstract Bigness Face"
+						"label": "Gray Abstract Bigness Face Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Gray Leopard Bigness Face"
+						"label": "Gray Leopard Bigness Face Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Blue Camo Bigness Face"
+						"label": "Blue Camo Bigness Face Mask"
 					}
 				}
 			},
 			"11": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 102,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Red Neon Stripes Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Neon Stripes Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Cyan Neon Stripes Mask"
 					}
 				}
 			}
@@ -30404,656 +29885,500 @@
 	"mp_m_gunrunning_01": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 103,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Blue Digital Zombie"
+						"label": "Blue Digital Zombie Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Brown Digital Zombie"
+						"label": "Brown Digital Zombie Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Green Digital Zombie"
+						"label": "Green Digital Zombie Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Gray Digital Zombie"
+						"label": "Gray Digital Zombie Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Peach Digital Zombie"
+						"label": "Peach Digital Zombie Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Fall Zombie"
+						"label": "Fall Zombie Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Dark Woodland Zombie"
+						"label": "Dark Woodland Zombie Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Crosshatch Zombie"
+						"label": "Crosshatch Zombie Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Moss Digital Zombie"
+						"label": "Moss Digital Zombie Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Zombie"
+						"label": "Gray Woodland Zombie Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo Zombie"
+						"label": "Aqua Camo Zombie Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Splinter Zombie"
+						"label": "Splinter Zombie Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Contrast Camo Zombie"
+						"label": "Contrast Camo Zombie Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Cobble Zombie"
+						"label": "Cobble Zombie Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Peach Camo Zombie"
+						"label": "Peach Camo Zombie Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Brushstroke Zombie"
+						"label": "Brushstroke Zombie Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Flecktarn Zombie"
+						"label": "Flecktarn Zombie Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Light Woodland Zombie"
+						"label": "Light Woodland Zombie Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Moss Zombie"
+						"label": "Moss Zombie Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Sand Zombie"
+						"label": "Sand Zombie Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Black Putrefied Zombie"
+						"label": "Black Putrefied Zombie Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Slate Putrefied Zombie"
+						"label": "Slate Putrefied Zombie Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "Stone Putrefied Zombie"
+						"label": "Stone Putrefied Zombie Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "Green Putrefied Zombie"
+						"label": "Green Putrefied Zombie Mask"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "Woodland Putrefied Zombie"
+						"label": "Woodland Putrefied Zombie Mask"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "Moss Camo Putrefied Zombie"
+						"label": "Moss Camo Putrefied Zombie Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 104,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Blue Digital Tactical Ski"
+						"label": "Blue Digital Tactical Ski Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Brown Digital Tactical Ski"
+						"label": "Brown Digital Tactical Ski Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Green Digital Tactical Ski"
+						"label": "Green Digital Tactical Ski Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Gray Digital Tactical Ski"
+						"label": "Gray Digital Tactical Ski Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Peach Digital Tactical Ski"
+						"label": "Peach Digital Tactical Ski Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Fall Tactical Ski"
+						"label": "Fall Tactical Ski Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Dark Woodland Tactical Ski"
+						"label": "Dark Woodland Tactical Ski Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Crosshatch Tactical Ski"
+						"label": "Crosshatch Tactical Ski Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Moss Digital Tactical Ski"
+						"label": "Moss Digital Tactical Ski Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Tactical Ski"
+						"label": "Gray Woodland Tactical Ski Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo Tactical Ski"
+						"label": "Aqua Camo Tactical Ski Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Splinter Tactical Ski"
+						"label": "Splinter Tactical Ski Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Contrast Camo Tactical Ski"
+						"label": "Contrast Camo Tactical Ski Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Cobble Tactical Ski"
+						"label": "Cobble Tactical Ski Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Peach Camo Tactical Ski"
+						"label": "Peach Camo Tactical Ski Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Brushstroke Tactical Ski"
+						"label": "Brushstroke Tactical Ski Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Flecktarn Tactical Ski"
+						"label": "Flecktarn Tactical Ski Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Light Woodland Tactical Ski"
+						"label": "Light Woodland Tactical Ski Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Moss Tactical Ski"
+						"label": "Moss Tactical Ski Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Sand Tactical Ski"
+						"label": "Sand Tactical Ski Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Tactical Ski Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Tactical Ski Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Tactical Ski Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Tactical Ski Mask"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "Olive Tactical Ski"
+						"label": "Olive Tactical Ski Mask"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "Skull Tactical Ski"
+						"label": "Skull Tactical Ski Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 105,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Obsidian Oni"
+						"label": "Obsidian Oni Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Weathered Oni"
+						"label": "Weathered Oni Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Sandstone Oni"
+						"label": "Sandstone Oni Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "White Painted Oni"
+						"label": "White Painted Oni Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Gold Painted Oni"
+						"label": "Gold Painted Oni Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Red Painted Oni"
+						"label": "Red Painted Oni Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Black Painted Oni"
+						"label": "Black Painted Oni Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Black Possessed Oni"
+						"label": "Black Possessed Oni Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Brown Oni"
+						"label": "Brown Oni Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Yellow Oni"
+						"label": "Yellow Oni Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Plum Oni"
+						"label": "Plum Oni Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Grayscale Oni"
+						"label": "Grayscale Oni Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Black and Yellow Oni"
+						"label": "Black and Yellow Oni Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Orange Oni"
+						"label": "Orange Oni Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Gold Stone Possessed Oni"
+						"label": "Gold Stone Possessed Oni Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Stone Possessed Oni"
+						"label": "Stone Possessed Oni Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Gray Oni"
+						"label": "Gray Oni Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Black and Gold Oni"
+						"label": "Black and Gold Oni Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Gray and Orange Oni"
+						"label": "Gray and Orange Oni Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "White Possessed Oni"
+						"label": "White Possessed Oni Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Gray and Gold Oni"
+						"label": "Gray and Gold Oni Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Stone Oni"
+						"label": "Stone Oni Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "Sea Green Oni"
+						"label": "Sea Green Oni Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "Purple Oni"
+						"label": "Purple Oni Mask"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 106,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Blue Digital Snake Skull"
+						"label": "Blue Digital Snake Skull Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Brown Digital Snake Skull"
+						"label": "Brown Digital Snake Skull Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Green Digital Snake Skull"
+						"label": "Green Digital Snake Skull Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Gray Digital Snake Skull"
+						"label": "Gray Digital Snake Skull Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Peach Digital Snake Skull"
+						"label": "Peach Digital Snake Skull Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Fall Snake Skull"
+						"label": "Fall Snake Skull Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Dark Woodland Snake Skull"
+						"label": "Dark Woodland Snake Skull Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Crosshatch Snake Skull"
+						"label": "Crosshatch Snake Skull Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Moss Digital Snake Skull"
+						"label": "Moss Digital Snake Skull Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Snake Skull"
+						"label": "Gray Woodland Snake Skull Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo Snake Skull"
+						"label": "Aqua Camo Snake Skull Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Splinter Snake Skull"
+						"label": "Splinter Snake Skull Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Contrast Camo Snake Skull"
+						"label": "Contrast Camo Snake Skull Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Cobble Snake Skull"
+						"label": "Cobble Snake Skull Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Peach Camo Snake Skull"
+						"label": "Peach Camo Snake Skull Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Brushstroke Snake Skull"
+						"label": "Brushstroke Snake Skull Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Flecktarn Snake Skull"
+						"label": "Flecktarn Snake Skull Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Light Woodland Snake Skull"
+						"label": "Light Woodland Snake Skull Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Moss Snake Skull"
+						"label": "Moss Snake Skull Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Sand Snake Skull"
+						"label": "Sand Snake Skull Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Snake Skull Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Snake Skull Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Snake Skull Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Snake Skull Mask"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "Red Snake Skull"
+						"label": "Red Snake Skull Mask"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "White Snake Skull"
+						"label": "White Snake Skull Mask"
 					}
 				}
 			},
 			"4": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 107,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Blue Digital Vent"
+						"label": "Blue Digital Vent Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Brown Digital Vent"
+						"label": "Brown Digital Vent Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Green Digital Vent"
+						"label": "Green Digital Vent Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Gray Digital Vent"
+						"label": "Gray Digital Vent Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Peach Digital Vent"
+						"label": "Peach Digital Vent Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Fall Vent"
+						"label": "Fall Vent Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Dark Woodland Vent"
+						"label": "Dark Woodland Vent Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Crosshatch Vent"
+						"label": "Crosshatch Vent Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Moss Digital Vent"
+						"label": "Moss Digital Vent Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Vent"
+						"label": "Gray Woodland Vent Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo Vent"
+						"label": "Aqua Camo Vent Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Splinter Vent"
+						"label": "Splinter Vent Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Contrast Camo Vent"
+						"label": "Contrast Camo Vent Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Cobble Vent"
+						"label": "Cobble Vent Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Peach Camo Vent"
+						"label": "Peach Camo Vent Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Brushstroke Vent"
+						"label": "Brushstroke Vent Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Flecktarn Vent"
+						"label": "Flecktarn Vent Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Light Woodland Vent"
+						"label": "Light Woodland Vent Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Moss Vent"
+						"label": "Moss Vent Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Sand Vent"
+						"label": "Sand Vent Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Vent Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Vent Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Vent Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Vent Mask"
 					}
 				}
 			},
 			"5": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 108,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Clean Skull"
+						"label": "Clean Skull Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Weathered Skull"
+						"label": "Weathered Skull Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Aged Skull"
+						"label": "Aged Skull Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Venom Skull"
+						"label": "Venom Skull Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Fresh Skull"
+						"label": "Fresh Skull Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Fleshy Skull"
+						"label": "Fleshy Skull Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Moss Skull"
+						"label": "Moss Skull Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Sand Skull"
+						"label": "Sand Skull Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Inked Skull"
+						"label": "Inked Skull Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Stained Skull"
+						"label": "Stained Skull Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Tan Leather Skull"
+						"label": "Tan Leather Skull Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Chocolate Leather Skull"
+						"label": "Chocolate Leather Skull Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Orange Open-Eyed Skull"
+						"label": "Orange Open-Eyed Skull Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Possessed Skull"
+						"label": "Possessed Skull Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Wide-Eyed Skull"
+						"label": "Wide-Eyed Skull Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Tattooed Skull"
+						"label": "Tattooed Skull Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Blue Painted Skull"
+						"label": "Blue Painted Skull Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Pink Painted Skull"
+						"label": "Pink Painted Skull Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Green Painted Skull"
+						"label": "Green Painted Skull Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Mustard Painted Skull"
+						"label": "Mustard Painted Skull Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Orange Swirl-Eyed Skull"
+						"label": "Orange Swirl-Eyed Skull Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Leather Solar-Eyed Skull"
+						"label": "Leather Solar-Eyed Skull Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "Terracotta Skull"
+						"label": "Terracotta Skull Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "Striped Skull"
+						"label": "Striped Skull Mask"
 					}
 				}
 			}
@@ -36719,58 +36044,45 @@
 	"mp_m_airraces_01": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 109,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": false,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Goggles Flight Cap"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Goggles Flight Cap"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Goggles Flight Cap"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Goggles Flight Cap"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Black Flight Cap"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Tan Flight Cap"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Green Flight Cap"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Olive Flight Cap"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "Light Woodland Flight Cap"
 					},
 					"9": {
-						"isBlank": "NULL",
 						"label": "Aqua Camo Flight Cap"
 					},
 					"10": {
-						"isBlank": "NULL",
 						"label": "Splinter Flight Cap"
 					},
 					"11": {
-						"isBlank": "NULL",
 						"label": "Brown Digital Flight Cap"
 					}
 				}
@@ -37346,1105 +36658,844 @@
 	"mp_m_smuggler_01": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 110,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Black Robo"
+						"label": "Black Robo Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Blue Digital Robo"
+						"label": "Blue Digital Robo Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Brown Digital Robo"
+						"label": "Brown Digital Robo Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Green Digital Robo"
+						"label": "Green Digital Robo Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Fall Robo"
+						"label": "Fall Robo Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Dark Woodland Robo"
+						"label": "Dark Woodland Robo Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Crosshatch Robo"
+						"label": "Crosshatch Robo Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Robo"
+						"label": "Gray Woodland Robo Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo Robo"
+						"label": "Aqua Camo Robo Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Splinter Robo"
+						"label": "Splinter Robo Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Contrast Camo Robo"
+						"label": "Contrast Camo Robo Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Cobble Robo"
+						"label": "Cobble Robo Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Peach Camo Robo"
+						"label": "Peach Camo Robo Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Brushstroke Robo"
+						"label": "Brushstroke Robo Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Flecktarn Robo"
+						"label": "Flecktarn Robo Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Light Woodland Robo"
+						"label": "Light Woodland Robo Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Blue Striped Robo"
+						"label": "Blue Striped Robo Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Moss Striped Robo"
+						"label": "Moss Striped Robo Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Orange Striped Robo"
+						"label": "Orange Striped Robo Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Yellow Robo"
+						"label": "Yellow Robo Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Zebra Robo"
+						"label": "Zebra Robo Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "White Robo"
+						"label": "White Robo Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Robo Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Robo Mask"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Robo Mask"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Robo Mask"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 111,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Skull Face Bandana"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Skull Face Bandana"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Skull Face Bandana"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Skull Face Bandana"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Blue Blagueurs Face Bandana"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Red Blagueurs Face Bandana"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Bold Abstract Face Bandana"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Geometric Face Bandana"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "Splinter Bigness Face Bandana"
 					},
 					"9": {
-						"isBlank": "NULL",
 						"label": "Red Bigness Face Bandana"
 					},
 					"10": {
-						"isBlank": "NULL",
 						"label": "Green Leaves Face Bandana"
 					},
 					"11": {
-						"isBlank": "NULL",
 						"label": "Blue Leaves Face Bandana"
 					},
 					"12": {
-						"isBlank": "NULL",
 						"label": "Red Manor Face Bandana"
 					},
 					"13": {
-						"isBlank": "NULL",
 						"label": "Black Manor Face Bandana"
 					},
 					"14": {
-						"isBlank": "NULL",
 						"label": "Skulls Manor Face Bandana"
 					},
 					"15": {
-						"isBlank": "NULL",
 						"label": "White Broker Face Bandana"
 					},
 					"16": {
-						"isBlank": "NULL",
 						"label": "Orange Broker Face Bandana"
 					},
 					"17": {
-						"isBlank": "NULL",
 						"label": "Black Broker Face Bandana"
 					},
 					"18": {
-						"isBlank": "NULL",
 						"label": "Off-White Broker Face Bandana"
 					},
 					"19": {
-						"isBlank": "NULL",
 						"label": "Stars & Stripes Face Bandana"
 					},
 					"20": {
-						"isBlank": "NULL",
 						"label": "Painted Face Bandana"
 					},
 					"21": {
-						"isBlank": "NULL",
 						"label": "Fractal Face Bandana"
 					},
 					"22": {
-						"isBlank": "NULL",
 						"label": "Contrast Camo Face Bandana"
 					},
 					"23": {
-						"isBlank": "NULL",
 						"label": "Zebra Face Bandana"
 					},
 					"24": {
-						"isBlank": "NULL",
 						"label": "Dark Pattern Face Bandana"
 					},
 					"25": {
-						"isBlank": "NULL",
 						"label": "Bright Pattern Face Bandana"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 112,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Black Mandible"
+						"label": "Black Mandible Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Blue Digital Mandible"
+						"label": "Blue Digital Mandible Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Brown Digital Mandible"
+						"label": "Brown Digital Mandible Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Green Digital Mandible"
+						"label": "Green Digital Mandible Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Fall Mandible"
+						"label": "Fall Mandible Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Dark Woodland Mandible"
+						"label": "Dark Woodland Mandible Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Crosshatch Mandible"
+						"label": "Crosshatch Mandible Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Mandible"
+						"label": "Gray Woodland MandibleMask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo Mandible"
+						"label": "Aqua Camo Mandible Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Splinter Mandible"
+						"label": "Splinter Mandible Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Contrast Camo Mandible"
+						"label": "Contrast Camo Mandible Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Cobble Mandible"
+						"label": "Cobble Mandible Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Peach Camo Mandible"
+						"label": "Peach Camo Mandible Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Brushstroke Mandible"
+						"label": "Brushstroke Mandible Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Flecktarn Mandible"
+						"label": "Flecktarn Mandible Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Light Woodland Mandible"
+						"label": "Light Woodland Mandible Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Blue Striped Mandible"
+						"label": "Blue Striped Mandible Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Moss Striped Mandible"
+						"label": "Moss Striped Mandible Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Orange Striped Mandible"
+						"label": "Orange Striped Mandible Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Yellow Mandible"
+						"label": "Yellow Mandible Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Zebra Mandible"
+						"label": "Zebra Mandible Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "White Mandible"
+						"label": "White Mandible Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Mandible Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Mandible Mask"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Mandible Mask"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Mandible Mask"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 113,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Skate Tight Ski"
+						"label": "Skate Tight Ski Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Multicolor Leaves Tight Ski"
+						"label": "Multicolor Leaves Tight Ski Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Lime Xero Tight Ski"
+						"label": "Lime Xero Tight Ski Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Tropical Xero Tight Ski"
+						"label": "Tropical Xero Tight Ski Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Red Stripe Tight Ski"
+						"label": "Red Stripe Tight Ski Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Gray Bigness Tight Ski"
+						"label": "Gray Bigness Tight Ski Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Orange & Red Tight Ski"
+						"label": "Orange & Red Tight Ski Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Vibrant Tight Ski"
+						"label": "Vibrant Tight Ski Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Blue Bigness Tight Ski"
+						"label": "Blue Bigness Tight Ski Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Mustard Tight Ski"
+						"label": "Mustard Tight Ski Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Stars & Stripes Tight Ski"
+						"label": "Stars & Stripes Tight Ski Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Black Skull Tight Ski"
+						"label": "Black Skull Tight Ski Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "White Skull Tight Ski"
+						"label": "White Skull Tight Ski Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Tight Ski Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Tight Ski Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Tight Ski Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Tight Ski Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "SA Republic Tight Ski"
+						"label": "SA Republic Tight Ski Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Black Stars & Stripes Tight Ski"
+						"label": "Black Stars & Stripes Tight Ski Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Black & Red Tight Ski"
+						"label": "Black & Red Tight Ski Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Bold Abstract Tight Ski"
+						"label": "Bold Abstract Tight Ski Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Camo Bigness Tight Ski"
+						"label": "Camo Bigness Tight Ski Mask"
 					}
 				}
 			},
 			"4": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 114,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": false,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Brown Loose"
+						"label": "Brown Loose Headwrap"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Teal Loose"
+						"label": "Teal Loose Headwrap"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Green Loose"
+						"label": "Green Loose Headwrap"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Yellow Loose"
+						"label": "Yellow Loose Headwrap"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Turquoise Loose"
+						"label": "Turquoise Loose Headwrap"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Brown Digital Loose"
+						"label": "Brown Digital Loose Headwrap"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Yellow Pattern Loose"
+						"label": "Yellow Pattern Loose Headwrap"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Dark Red Pattern Loose"
+						"label": "Dark Red Pattern Loose Headwrap"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Peach Digital Loose"
+						"label": "Peach Digital Loose Headwrap"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Fall Loose"
+						"label": "Fall Loose Headwrap"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Dark Woodland Loose"
+						"label": "Dark Woodland Loose Headwrap"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Orange Pattern Loose"
+						"label": "Orange Pattern Loose Headwrap"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Red Pattern Loose"
+						"label": "Red Pattern Loose Headwrap"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Loose"
+						"label": "Gray Woodland Loose Headwrap"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Blue Pattern Loose"
+						"label": "Blue Pattern Loose Headwrap"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Splinter Loose"
+						"label": "Splinter Loose Headwrap"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Purple Pattern Loose"
+						"label": "Purple Pattern Loose Headwrap"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Jolly Roger Loose"
+						"label": "Jolly Roger Loose Headwrap"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Peach Camo Loose"
+						"label": "Peach Camo Loose Headwrap"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Brushstroke Loose"
+						"label": "Brushstroke Loose Headwrap"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Flecktarn Loose"
+						"label": "Flecktarn Loose Headwrap"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Weapon Pattern Loose"
+						"label": "Weapon Pattern Loose Headwrap"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Camo Loose Headwrap"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Camo Loose Headwrap"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Camo Loose Headwrap"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Camo Loose Headwrap"
 					}
 				}
 			},
 			"5": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 115,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Brown Wrapped"
+						"label": "Brown Wrapped Headwrap"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Teal Wrapped"
+						"label": "Teal Wrapped Headwrap"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Green Wrapped"
+						"label": "Green Wrapped Headwrap"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Yellow Wrapped"
+						"label": "Yellow Wrapped Headwrap"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Turquoise Wrapped"
+						"label": "Turquoise Wrapped Headwrap"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Brown Digital Wrapped"
+						"label": "Brown Digital Wrapped Headwrap"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Red Pattern Wrapped"
+						"label": "Red Pattern Wrapped Headwrap"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Jolly Roger Wrapped"
+						"label": "Jolly Roger Wrapped Headwrap"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Peach Digital Wrapped"
+						"label": "Peach Digital Wrapped Headwrap"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Fall Wrapped"
+						"label": "Fall Wrapped Headwrap"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Dark Woodland Wrapped"
+						"label": "Dark Woodland Wrapped Headwrap"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Weapon Pattern Wrapped"
+						"label": "Weapon Pattern Wrapped Headwrap"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Blue Pattern Wrapped"
+						"label": "Blue Pattern Wrapped Headwrap"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Wrapped"
+						"label": "Gray Woodland Wrapped Headwrap"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Dark Pattern Wrapped"
+						"label": "Dark Pattern Wrapped Headwrap"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Splinter Wrapped"
+						"label": "Splinter Wrapped Headwrap"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Dark Red Pattern Wrapped"
+						"label": "Dark Red Pattern Wrapped Headwrap"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Orange Pattern Wrapped"
+						"label": "Orange Pattern Wrapped Headwrap"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Peach Camo Wrapped"
+						"label": "Peach Camo Wrapped Headwrap"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Brushstroke Wrapped"
+						"label": "Brushstroke Wrapped Headwrap"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Flecktarn Wrapped"
+						"label": "Flecktarn Wrapped Headwrap"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Purple Pattern Wrapped"
+						"label": "Purple Pattern Wrapped Headwrap"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Camo Wrapped Headwrap"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Camo Wrapped Headwrap"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Camo Wrapped Headwrap"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Camo Wrapped Headwrap"
 					}
 				}
 			},
 			"6": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 116,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Brown Snood"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "Teal Snood"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Green Snood"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Yellow Snood"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Turquoise Snood"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Brown Digital Snood"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Dark Red Pattern Snood"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Orange Pattern Snood"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "Peach Digital Snood"
 					},
 					"9": {
-						"isBlank": "NULL",
 						"label": "Fall Snood"
 					},
 					"10": {
-						"isBlank": "NULL",
 						"label": "Dark Woodland Snood"
 					},
 					"11": {
-						"isBlank": "NULL",
 						"label": "Blue Pattern Snood"
 					},
 					"12": {
-						"isBlank": "NULL",
 						"label": "Purple Pattern Snood"
 					},
 					"13": {
-						"isBlank": "NULL",
 						"label": "Gray Woodland Snood"
 					},
 					"14": {
-						"isBlank": "NULL",
 						"label": "Yellow Pattern Snood"
 					},
 					"15": {
-						"isBlank": "NULL",
 						"label": "Splinter Snood"
 					},
 					"16": {
-						"isBlank": "NULL",
 						"label": "Red Pattern Snood"
 					},
 					"17": {
-						"isBlank": "NULL",
 						"label": "Weapon Pattern Snood"
 					},
 					"18": {
-						"isBlank": "NULL",
 						"label": "Peach Camo Snood"
 					},
 					"19": {
-						"isBlank": "NULL",
 						"label": "Brushstroke Snood"
 					},
 					"20": {
-						"isBlank": "NULL",
 						"label": "Flecktarn Snood"
 					},
 					"21": {
-						"isBlank": "NULL",
 						"label": "Jolly Roger Snood"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Camo Snood"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Camo Snood"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Camo Snood"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Camo Snood"
 					}
 				}
 			},
 			"7": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 117,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Bright Stripe Knit"
+						"label": "Bright Stripe Knit Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Dark Red Knit"
+						"label": "Dark Red Knit Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Green & Beige Knit"
+						"label": "Green & Beige Knit Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Sunrise Knit"
+						"label": "Sunrise Knit Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Gray Digital Knit"
+						"label": "Gray Digital Knit Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Knit"
+						"label": "Gray Woodland Knit Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Brown Digital Knit"
+						"label": "Brown Digital Knit Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Red Stripe Knit"
+						"label": "Red Stripe Knit Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Skull Knit"
+						"label": "Skull Knit Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Wine Stripe Knit"
+						"label": "Wine Stripe Knit Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Bright Green Knit"
+						"label": "Bright Green Knit Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo Knit"
+						"label": "Aqua Camo Knit Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Primary Stripe Knit"
+						"label": "Primary Stripe Knit Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Black & Red Knit"
+						"label": "Black & Red Knit Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Green Stripe Knit"
+						"label": "Green Stripe Knit Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Tiger Knit"
+						"label": "Tiger Knit Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Leopard Knit"
+						"label": "Leopard Knit Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Dark Pattern Knit"
+						"label": "Dark Pattern Knit Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Stars & Stripes Knit"
+						"label": "Stars & Stripes Knit Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Blue Luchador Knit"
+						"label": "Blue Luchador Knit Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Green Luchador Knit"
+						"label": "Green Luchador Knit Mask"
 					}
 				}
 			},
 			"8": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 118,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Camo T-Shirt Mark"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Camo T-Shirt Mark"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Camo T-Shirt Mark"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Camo T-Shirt Mark"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Magenta Leopard T-Shirt"
+						"label": "Magenta Leopard T-Shirt Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Navy Painted T-Shirt"
+						"label": "Navy Painted T-Shirt Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Multicolor Leaves T-Shirt"
+						"label": "Multicolor Leaves T-Shirt Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Gray Digital T-Shirt"
+						"label": "Gray Digital T-Shirt Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo T-Shirt"
+						"label": "Aqua Camo T-Shirt Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Red Camo T-Shirt"
+						"label": "Red Camo T-Shirt Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Camo Bigness T-Shirt"
+						"label": "Camo Bigness T-Shirt Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Black Bigness T-Shirt"
+						"label": "Black Bigness T-Shirt Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Red Bigness T-Shirt"
+						"label": "Red Bigness T-Shirt Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Gray Bigness T-Shirt"
+						"label": "Gray Bigness T-Shirt Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Primary T-Shirt"
+						"label": "Primary T-Shirt Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "OJ Squash T-Shirt"
+						"label": "OJ Squash T-Shirt Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Green & Pink T-Shirt"
+						"label": "Green & Pink T-Shirt Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Stars & Stripes T-Shirt"
+						"label": "Stars & Stripes T-Shirt Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Black Stars & Stripes T-Shirt"
+						"label": "Black Stars & Stripes T-Shirt Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "SA Republic T-Shirt"
+						"label": "SA Republic T-Shirt Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Aqua Tie Dye T-Shirt"
+						"label": "Aqua Tie Dye T-Shirt Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Far Out Tie Dye T-Shirt"
+						"label": "Far Out Tie Dye T-Shirt Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "Pink Tie Dye T-Shirt"
+						"label": "Pink Tie Dye T-Shirt Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "Orange Pattern T-Shirt"
+						"label": "Orange Pattern T-Shirt Mask"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "Green Pattern T-Shirt"
+						"label": "Green Pattern T-Shirt Mask"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "Pink Pattern T-Shirt"
+						"label": "Pink Pattern T-Shirt Mask"
 					}
 				}
 			},
 			"9": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 119,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Skull Scruffy"
+						"label": "Skull Scruffy Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Ash Scruffy"
+						"label": "Ash Scruffy Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Charcoal Scruffy"
+						"label": "Charcoal Scruffy Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Chocolate Scruffy"
+						"label": "Chocolate Scruffy Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Blue Scruffy"
+						"label": "Blue Scruffy Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Hessian Scruffy"
+						"label": "Hessian Scruffy Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Dark Red Scruffy"
+						"label": "Dark Red Scruffy Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Scruffy Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Scruffy Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Scruffy Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Scruffy Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Bright Green Scruffy"
+						"label": "Bright Green Scruffy Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Beige Stripe Scruffy"
+						"label": "Beige Stripe Scruffy Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Rasta Stripe Scruffy"
+						"label": "Rasta Stripe Scruffy Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Triplet Stripe Scruffy"
+						"label": "Triplet Stripe Scruffy Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Orange Stripe Scruffy"
+						"label": "Orange Stripe Scruffy Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Magenta Leopard Scruffy"
+						"label": "Magenta Leopard Scruffy Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Vibrant Scruffy"
+						"label": "Vibrant Scruffy Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Skate Scruffy"
+						"label": "Skate Scruffy Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Pink Scruffy"
+						"label": "Pink Scruffy Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo Scruffy"
+						"label": "Aqua Camo Scruffy Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Gray Digital Scruffy"
+						"label": "Gray Digital Scruffy Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Scruffy"
+						"label": "Gray Woodland Scruffy Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "Pretty Scruffy"
+						"label": "Pretty Scruffy Mask"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "Dark Neon Scruffy"
+						"label": "Dark Neon Scruffy Mask"
 					}
 				}
 			},
 			"10": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 120,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": false,
+				"isBlank": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "None"
 					}
 				}
 			}
@@ -40112,794 +39163,612 @@
 	"mp_m_christmas2017": {
 		"BERD": {
 			"0": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 121,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": false,
+				"isBlank": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "None"
 					}
 				}
 			},
 			"1": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 122,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": false,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Black Scuba Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Navy Scuba Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Cyan Scuba Mask"
 					}
 				}
 			},
 			"2": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 123,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Neon Wire Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Neon Wire Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Neon Wire Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Neon Wire Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Yellow Neon Wire Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Dark Reindeer Neon Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Light Reindeer Neon Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Light Gingerbread Neon Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Dark Gingerbread Neon Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Santa Neon Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "XMas Green Neon Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "XMas Red Neon Mask"
 					}
 				}
 			},
 			"3": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 124,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Manic Luminous"
+						"label": "Manic Luminous Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Manic Electric"
+						"label": "Manic Electric Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Manic Neon"
+						"label": "Manic Neon Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Amused Electric"
+						"label": "Amused Electric Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Amused Luminous"
+						"label": "Amused Luminous Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Amused Neon"
+						"label": "Amused Neon Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Furious Luminous"
+						"label": "Furious Luminous Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Furious Electric"
+						"label": "Furious Electric Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Furious Neon"
+						"label": "Furious Neon Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Pleased Neon"
+						"label": "Pleased Neon Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Pleased Luminous"
+						"label": "Pleased Luminous Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Pleased Electric"
+						"label": "Pleased Electric Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Peaceful Neon"
+						"label": "Peaceful Neon Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Peaceful Electric"
+						"label": "Peaceful Electric Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Peaceful Luminous"
+						"label": "Peaceful Luminous Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Transcendent Luminous"
+						"label": "Transcendent Luminous Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Transcendent Electric"
+						"label": "Transcendent Electric Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Transcendent Neon"
+						"label": "Transcendent Neon Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Tribal Electric"
+						"label": "Tribal Electric Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "Tribal Luminous"
+						"label": "Tribal Luminous Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Tribal Neon"
+						"label": "Tribal Neon Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Iwazaru Luminous"
+						"label": "Iwazaru Luminous Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "Iwazaru Electric"
+						"label": "Iwazaru Electric Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "Iwazaru Neon"
+						"label": "Iwazaru Neon Mask"
 					}
 				}
 			},
 			"4": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 125,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Black Mono Ballistic"
+						"label": "Black Mono Ballistic Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Gray Mono Ballistic"
+						"label": "Gray Mono Ballistic Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "White Mono Ballistic"
+						"label": "White Mono Ballistic Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Sand Mono Ballistic"
+						"label": "Sand Mono Ballistic Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Mono Ballistic Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Mono Ballistic Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Mono Ballistic Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Mono Ballistic Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Sand Goggled Ballistic"
+						"label": "Sand Goggled Ballistic Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Red Goggled Ballistic"
+						"label": "Red Goggled Ballistic Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Black Carbon Ballistic"
+						"label": "Black Carbon Ballistic Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Sand Carbon Ballistic"
+						"label": "Sand Carbon Ballistic Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Cranial Ballistic"
+						"label": "Cranial Ballistic Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Flecktarn Ballistic"
+						"label": "Flecktarn Ballistic Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "Splinter Ballistic"
+						"label": "Splinter Ballistic Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "Red & Black Ballistic"
+						"label": "Red & Black Ballistic Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "Blue & Black Ballistic"
+						"label": "Blue & Black Ballistic Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "Yellow & Black Ballistic"
+						"label": "Yellow & Black Ballistic Mask"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "Orange & Black Ballistic"
+						"label": "Orange & Black Ballistic Mask"
 					},
 					"19": {
-						"isBlank": "NULL",
-						"label": "White & Black Ballistic"
+						"label": "White & Black Ballistic Mask"
 					},
 					"20": {
-						"isBlank": "NULL",
-						"label": "Red Stripe Ballistic"
+						"label": "Red Stripe Ballistic Mask"
 					},
 					"21": {
-						"isBlank": "NULL",
-						"label": "Black Stripe Ballistic"
+						"label": "Black Stripe Ballistic Mask"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "Off White & Red Ballistic"
+						"label": "Off White & Red Ballistic Mask"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "Red Ballistic"
+						"label": "Red Ballistic Mask"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "Brown Digital Ballistic"
+						"label": "Brown Digital Ballistic Mask"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "Fall Ballistic"
+						"label": "Fall Ballistic Mask"
 					}
 				}
 			},
 			"5": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 126,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Black Spec Ops"
+						"label": "Black Spec Ops Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Carbon Spec Ops"
+						"label": "Carbon Spec Ops Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Scale Spec Ops"
+						"label": "Scale Spec Ops Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Tan Digital Spec Ops"
+						"label": "Tan Digital Spec Ops Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo Spec Ops"
+						"label": "Aqua Camo Spec Ops Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Splinter Spec Ops"
+						"label": "Splinter Spec Ops Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Mono Splinter Spec Ops"
+						"label": "Mono Splinter Spec Ops Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland Spec Ops"
+						"label": "Gray Woodland Spec Ops Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Dark Woodland Spec Ops"
+						"label": "Dark Woodland Spec Ops Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Electric Skull Spec Ops"
+						"label": "Electric Skull Spec Ops Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "LSPD Spec Ops"
+						"label": "LSPD Spec Ops Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Ornate Skull Spec Ops"
+						"label": "Ornate Skull Spec Ops Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "Striped Spec Ops"
+						"label": "Striped Spec Ops Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "Opera Spec Ops"
+						"label": "Opera Spec Ops Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Spec Ops Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Spec Ops Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Spec Ops Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Spec Ops Mask"
 					}
 				}
 			},
 			"6": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 127,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Festive Gingerbread Hockey"
+						"label": "Festive Gingerbread Hockey Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Merry Gingerbread Hockey"
+						"label": "Merry Gingerbread Hockey Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Jovial Gingerbread Hockey"
+						"label": "Jovial Gingerbread Hockey Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Mirthful Gingerbread Hockey"
+						"label": "Mirthful Gingerbread Hockey Mask"
 					}
 				}
 			},
 			"7": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 128,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
-						"label": "Gray Woodland False Face"
+						"label": "Gray Woodland False Face Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
-						"label": "Aqua Camo False Face"
+						"label": "Aqua Camo False Face Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
-						"label": "Headline False Face"
+						"label": "Headline False Face Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
-						"label": "Splinter False Face"
+						"label": "Splinter False Face Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
-						"label": "Brown Digital False Face"
+						"label": "Brown Digital False Face Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
-						"label": "Striped Woodland False Face"
+						"label": "Striped Woodland False Face Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
-						"label": "Cobble Woodland False Face"
+						"label": "Cobble Woodland False Face Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
-						"label": "Rising Sun False Face"
+						"label": "Rising Sun False Face Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
-						"label": "Opera False Face"
+						"label": "Opera False Face Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
-						"label": "Stars & Stripes False Face"
+						"label": "Stars & Stripes False Face Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
-						"label": "Green Pattern False Face"
+						"label": "Green Pattern False Face Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
-						"label": "Gothic False Face"
+						"label": "Gothic False Face Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Face Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Face Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Face Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Face Mask"
 					}
 				}
 			},
 			"8": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 129,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Gray Gas Mask"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "Carbon Gas Mask"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Tan Digital Gas Mask"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Aqua Camo Gas Mask"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Splinter Gas Mask"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Gray Splinter Gas Mask"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Gray Striped Gas Mask"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Moss Striped Gas Mask"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "Peach Camo Gas Mask"
 					},
 					"9": {
-						"isBlank": "NULL",
 						"label": "Woodland Digital Gas Mask"
 					},
 					"10": {
-						"isBlank": "NULL",
 						"label": "Skull Gas Mask"
 					},
 					"11": {
-						"isBlank": "NULL",
 						"label": "White Industrial Gas Mask"
 					},
 					"12": {
-						"isBlank": "NULL",
 						"label": "Yellow Industrial Gas Mask"
 					},
 					"13": {
-						"isBlank": "NULL",
 						"label": "Orange Industrial Gas Mask"
 					},
 					"14": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Gas Mask"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Gas Mask"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Gas Mask"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Gas Mask"
 					}
 				}
 			},
 			"9": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 130,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Black Respirator"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "Flecktarn Respirator"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Gray Digital Respirator"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Aqua Camo Respirator"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Splinter Respirator"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Gray Splinter Respirator"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Tiger Striped Respirator"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Moss Striped Respirator"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "Green Digital Respirator"
 					},
 					"9": {
-						"isBlank": "NULL",
 						"label": "Brushstroke Respirator"
 					},
 					"10": {
-						"isBlank": "NULL",
 						"label": "Gray Woodland Respirator"
 					},
 					"11": {
-						"isBlank": "NULL",
 						"label": "Cobble Respirator"
 					},
 					"12": {
-						"isBlank": "NULL",
 						"label": "Contrast Camo Respirator"
 					},
 					"13": {
-						"isBlank": "NULL",
 						"label": "Viper Respirator"
 					},
 					"14": {
-						"isBlank": "NULL",
 						"label": "Crosshatch Respirator"
 					},
 					"15": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Respirator"
 					},
 					"16": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Respirator"
 					},
 					"17": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Respirator"
 					},
 					"18": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Respirator"
 					}
 				}
 			},
 			"10": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 131,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": false,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Hideous Krampus"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "Fearsome Krampus"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Odious Krampus"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Heinous Krampus"
 					}
 				}
 			},
 			"11": {
-				"VERIFIED": "FALSE",
+				"VERIFIED": true,
 				"globalId": 132,
-				"faceCovered": "NULL",
-				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"faceCovered": true,
+				"shrinkFace": true,
 				"textures": {
 					"0": {
-						"isBlank": "NULL",
 						"label": "Black Night Vision"
 					},
 					"1": {
-						"isBlank": "NULL",
 						"label": "White Night Vision"
 					},
 					"2": {
-						"isBlank": "NULL",
 						"label": "Gray Night Vision"
 					},
 					"3": {
-						"isBlank": "NULL",
 						"label": "Blue Night Vision"
 					},
 					"4": {
-						"isBlank": "NULL",
 						"label": "Tan Night Vision"
 					},
 					"5": {
-						"isBlank": "NULL",
 						"label": "Moss Night Vision"
 					},
 					"6": {
-						"isBlank": "NULL",
 						"label": "Brown Camo Night Vision"
 					},
 					"7": {
-						"isBlank": "NULL",
 						"label": "Aqua Camo Night Vision"
 					},
 					"8": {
-						"isBlank": "NULL",
 						"label": "Gray Camo Night Vision"
 					},
 					"9": {
-						"isBlank": "NULL",
 						"label": "White Digital Night Vision"
 					},
 					"10": {
-						"isBlank": "NULL",
 						"label": "Green Digital Night Vision"
 					},
 					"11": {
-						"isBlank": "NULL",
 						"label": "Splinter Night Vision"
 					},
 					"12": {
-						"isBlank": "NULL",
 						"label": "Dazzle Night Vision"
 					},
 					"13": {
-						"isBlank": "NULL",
 						"label": "Brown Digital Night Vision"
 					},
 					"14": {
-						"isBlank": "NULL",
 						"label": "Woodland Night Vision"
 					},
 					"15": {
-						"isBlank": "NULL",
 						"label": "Gray Woodland Night Vision"
 					},
 					"16": {
-						"isBlank": "NULL",
 						"label": "Crosshatch Night Vision"
 					},
 					"17": {
-						"isBlank": "NULL",
 						"label": "Contrast Camo Night Vision"
 					},
 					"18": {
-						"isBlank": "NULL",
 						"label": "Cobble Night Vision"
 					},
 					"19": {
-						"isBlank": "NULL",
 						"label": "Moss Striped Night Vision"
 					},
 					"20": {
-						"isBlank": "NULL",
 						"label": "White Camo Night Vision"
 					},
 					"21": {
-						"isBlank": "NULL",
 						"label": "Skull Night Vision"
 					},
 					"22": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Green Night Vision"
 					},
 					"23": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Orange Night Vision"
 					},
 					"24": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Purple Night Vision"
 					},
 					"25": {
-						"isBlank": "NULL",
-						"label": "NULL"
+						"label": "Pink Night Vision"
 					}
 				}
 			}
@@ -43403,7 +42272,7 @@
 				"globalId": 133,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -45508,7 +44377,7 @@
 				"globalId": 134,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -45597,7 +44466,7 @@
 				"globalId": 135,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -45662,7 +44531,7 @@
 				"globalId": 136,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -45735,7 +44604,7 @@
 				"globalId": 137,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -45776,7 +44645,7 @@
 				"globalId": 138,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -45833,7 +44702,7 @@
 				"globalId": 139,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -45890,7 +44759,7 @@
 				"globalId": 140,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -45947,7 +44816,7 @@
 				"globalId": 141,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -46004,7 +44873,7 @@
 				"globalId": 142,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -46061,7 +44930,7 @@
 				"globalId": 143,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -46074,7 +44943,7 @@
 				"globalId": 144,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -46087,7 +44956,7 @@
 				"globalId": 145,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -46100,7 +44969,7 @@
 				"globalId": 146,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -46177,7 +45046,7 @@
 				"globalId": 147,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49499,7 +48368,7 @@
 				"globalId": 148,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49512,7 +48381,7 @@
 				"globalId": 149,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49525,7 +48394,7 @@
 				"globalId": 150,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49538,7 +48407,7 @@
 				"globalId": 151,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49551,7 +48420,7 @@
 				"globalId": 152,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49564,7 +48433,7 @@
 				"globalId": 153,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49577,7 +48446,7 @@
 				"globalId": 154,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49590,7 +48459,7 @@
 				"globalId": 155,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49615,7 +48484,7 @@
 				"globalId": 156,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49640,7 +48509,7 @@
 				"globalId": 157,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49665,7 +48534,7 @@
 				"globalId": 158,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -49690,7 +48559,7 @@
 				"globalId": 159,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -52849,7 +51718,7 @@
 				"globalId": 160,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -52862,7 +51731,7 @@
 				"globalId": 161,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -52875,7 +51744,7 @@
 				"globalId": 162,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -52888,7 +51757,7 @@
 				"globalId": 163,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -52901,7 +51770,7 @@
 				"globalId": 164,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -52914,7 +51783,7 @@
 				"globalId": 165,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -52927,7 +51796,7 @@
 				"globalId": 166,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -52952,7 +51821,7 @@
 				"globalId": 167,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -52965,7 +51834,7 @@
 				"globalId": 168,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -52978,7 +51847,7 @@
 				"globalId": 169,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -53091,7 +51960,7 @@
 				"globalId": 170,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -53104,7 +51973,7 @@
 				"globalId": 171,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -53117,7 +51986,7 @@
 				"globalId": 172,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -53138,7 +52007,7 @@
 				"globalId": 173,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -53151,7 +52020,7 @@
 				"globalId": 174,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -53260,7 +52129,7 @@
 				"globalId": 175,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -53285,7 +52154,7 @@
 				"globalId": 176,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -53310,7 +52179,7 @@
 				"globalId": 177,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -53323,7 +52192,7 @@
 				"globalId": 178,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -53432,7 +52301,7 @@
 				"globalId": 179,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -55413,7 +54282,7 @@
 				"globalId": 180,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -55474,7 +54343,7 @@
 				"globalId": 181,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -55499,7 +54368,7 @@
 				"globalId": 182,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -55524,7 +54393,7 @@
 				"globalId": 183,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -55597,7 +54466,7 @@
 				"globalId": 184,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -57974,7 +56843,7 @@
 				"globalId": 185,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -58087,7 +56956,7 @@
 				"globalId": 186,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -58132,7 +57001,7 @@
 				"globalId": 187,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -58245,7 +57114,7 @@
 				"globalId": 188,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -58302,7 +57171,7 @@
 				"globalId": 189,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -60679,7 +59548,7 @@
 				"globalId": 190,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -60704,7 +59573,7 @@
 				"globalId": 191,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -60729,7 +59598,7 @@
 				"globalId": 192,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -60754,7 +59623,7 @@
 				"globalId": 193,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -60767,7 +59636,7 @@
 				"globalId": 194,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -62451,7 +61320,7 @@
 				"globalId": 195,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -62476,7 +61345,7 @@
 				"globalId": 196,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -62501,7 +61370,7 @@
 				"globalId": 197,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -63985,7 +62854,7 @@
 				"globalId": 198,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -63998,7 +62867,7 @@
 				"globalId": 199,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -64019,7 +62888,7 @@
 				"globalId": 200,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -64032,7 +62901,7 @@
 				"globalId": 201,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -64045,7 +62914,7 @@
 				"globalId": 202,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -64058,7 +62927,7 @@
 				"globalId": 203,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -64083,7 +62952,7 @@
 				"globalId": 204,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -64104,7 +62973,7 @@
 				"globalId": 205,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -64117,7 +62986,7 @@
 				"globalId": 206,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -64130,7 +62999,7 @@
 				"globalId": 207,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -64151,7 +63020,7 @@
 				"globalId": 208,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -65648,7 +64517,7 @@
 				"globalId": 209,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -65669,7 +64538,7 @@
 				"globalId": 210,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -65682,7 +64551,7 @@
 				"globalId": 211,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -65795,7 +64664,7 @@
 				"globalId": 212,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -65820,7 +64689,7 @@
 				"globalId": 213,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -65833,7 +64702,7 @@
 				"globalId": 214,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -65850,7 +64719,7 @@
 				"globalId": 215,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -69602,7 +68471,7 @@
 				"globalId": 216,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -69623,7 +68492,7 @@
 				"globalId": 217,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -69644,7 +68513,7 @@
 				"globalId": 218,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -69665,7 +68534,7 @@
 				"globalId": 219,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -69686,7 +68555,7 @@
 				"globalId": 220,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -69707,7 +68576,7 @@
 				"globalId": 221,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -69720,7 +68589,7 @@
 				"globalId": 222,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -69733,7 +68602,7 @@
 				"globalId": 223,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -69746,7 +68615,7 @@
 				"globalId": 224,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -69759,7 +68628,7 @@
 				"globalId": 225,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71756,7 +70625,7 @@
 				"globalId": 226,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71769,7 +70638,7 @@
 				"globalId": 227,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71782,7 +70651,7 @@
 				"globalId": 228,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71795,7 +70664,7 @@
 				"globalId": 229,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71820,7 +70689,7 @@
 				"globalId": 230,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71845,7 +70714,7 @@
 				"globalId": 231,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71858,7 +70727,7 @@
 				"globalId": 232,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71891,7 +70760,7 @@
 				"globalId": 233,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71916,7 +70785,7 @@
 				"globalId": 234,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71941,7 +70810,7 @@
 				"globalId": 235,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -71954,7 +70823,7 @@
 				"globalId": 236,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -73619,7 +72488,7 @@
 				"globalId": 237,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -73632,7 +72501,7 @@
 				"globalId": 238,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -73653,7 +72522,7 @@
 				"globalId": 239,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -73674,7 +72543,7 @@
 				"globalId": 240,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -73695,7 +72564,7 @@
 				"globalId": 241,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -73716,7 +72585,7 @@
 				"globalId": 242,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -73729,7 +72598,7 @@
 				"globalId": 243,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",
@@ -74945,7 +73814,7 @@
 				"globalId": 244,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"isBlank": "NULL",

@@ -6,7 +6,7 @@
 				"globalId": 0,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "None",
@@ -19,7 +19,7 @@
 				"globalId": 1,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Pink Pig",
@@ -44,7 +44,7 @@
 				"globalId": 2,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Silver Skull",
@@ -69,7 +69,7 @@
 				"globalId": 3,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Pogo",
@@ -82,7 +82,7 @@
 				"globalId": 4,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Hockey",
@@ -107,7 +107,7 @@
 				"globalId": 5,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Tan Ape",
@@ -132,7 +132,7 @@
 				"globalId": 6,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Carnival",
@@ -157,7 +157,7 @@
 				"globalId": 7,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Monster",
@@ -5461,7 +5461,7 @@
 				"globalId": 8,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Santa",
@@ -5482,7 +5482,7 @@
 				"globalId": 9,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Reindeer Mask",
@@ -5495,7 +5495,7 @@
 				"globalId": 10,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Snowman Mask",
@@ -5630,7 +5630,7 @@
 				"globalId": 11,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Mysterious",
@@ -5651,7 +5651,7 @@
 				"globalId": 12,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Bronze Masquerade",
@@ -5672,7 +5672,7 @@
 				"globalId": 13,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Cupid",
@@ -5989,7 +5989,7 @@
 				"globalId": 14,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Bullet Hockey",
@@ -6062,7 +6062,7 @@
 				"globalId": 15,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Skull Hockey",
@@ -6087,7 +6087,7 @@
 				"globalId": 16,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Metal Warrior",
@@ -6948,7 +6948,7 @@
 				"globalId": 17,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Gray Cat",
@@ -6965,7 +6965,7 @@
 				"globalId": 18,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Red Fox",
@@ -6982,7 +6982,7 @@
 				"globalId": 19,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Owl",
@@ -6999,7 +6999,7 @@
 				"globalId": 20,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Gray Racoon",
@@ -7695,7 +7695,7 @@
 				"globalId": 21,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Bear",
@@ -7712,7 +7712,7 @@
 				"globalId": 22,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Bison",
@@ -7729,7 +7729,7 @@
 				"globalId": 23,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Bull",
@@ -7746,7 +7746,7 @@
 				"globalId": 24,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Eagle",
@@ -7763,7 +7763,7 @@
 				"globalId": 25,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Pink Vulture",
@@ -7780,7 +7780,7 @@
 				"globalId": 26,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Grey Wolf",
@@ -7909,7 +7909,7 @@
 				"globalId": 27,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Flight Cap",
@@ -9044,7 +9044,7 @@
 				"globalId": 28,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Combat Mask",
@@ -9073,7 +9073,7 @@
 				"globalId": 29,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Skeletal",
@@ -9102,7 +9102,7 @@
 				"globalId": 30,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Please Stop Me Hockey",
@@ -10303,7 +10303,7 @@
 				"globalId": 31,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Penguin",
@@ -10316,7 +10316,7 @@
 				"globalId": 32,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Stocking",
@@ -10329,7 +10329,7 @@
 				"globalId": 33,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Gingerbread",
@@ -10342,7 +10342,7 @@
 				"globalId": 34,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Elf",
@@ -10740,7 +10740,7 @@
 				"globalId": 35,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Night Vision",
@@ -10753,7 +10753,7 @@
 				"globalId": 36,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Rebreather",
@@ -10766,7 +10766,7 @@
 				"globalId": 37,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Scruffy Balaclava",
@@ -10779,7 +10779,7 @@
 				"globalId": 38,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Gas Mask",
@@ -10792,7 +10792,7 @@
 				"globalId": 39,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Pink Infected",
@@ -10809,7 +10809,7 @@
 				"globalId": 40,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Mummy",
@@ -10826,7 +10826,7 @@
 				"globalId": 41,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Vampyr",
@@ -10843,7 +10843,7 @@
 				"globalId": 42,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Pale Frank",
@@ -10860,7 +10860,7 @@
 				"globalId": 43,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Impotent Rage",
@@ -10873,7 +10873,7 @@
 				"globalId": 44,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Princess Robot Bubblegum",
@@ -10886,7 +10886,7 @@
 				"globalId": 45,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Moorehead",
@@ -10899,7 +10899,7 @@
 				"globalId": 46,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Chemical Mask",
@@ -10912,7 +10912,7 @@
 				"globalId": 47,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Crime Scene Tape",
@@ -10937,7 +10937,7 @@
 				"globalId": 48,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Light Gray Duct Tape",
@@ -10962,7 +10962,7 @@
 				"globalId": 49,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Up-n-Atom Paper Bag",
@@ -11075,7 +11075,7 @@
 				"globalId": 50,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Plastic Face",
@@ -11124,7 +11124,7 @@
 				"globalId": 51,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Face Bandana",
@@ -11173,7 +11173,7 @@
 				"globalId": 52,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Tight Ski",
@@ -11226,7 +11226,7 @@
 				"globalId": 53,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Hooded Ski",
@@ -11271,7 +11271,7 @@
 				"globalId": 54,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black T-Shirt Mask",
@@ -11324,7 +11324,7 @@
 				"globalId": 55,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Charcoal Toggle Ski",
@@ -11341,7 +11341,7 @@
 				"globalId": 56,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Blue Loose Balaclava",
@@ -11386,7 +11386,7 @@
 				"globalId": 57,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Knit Balaclava",
@@ -11483,7 +11483,7 @@
 				"globalId": 58,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Bandit Knit Balaclava",
@@ -16408,7 +16408,7 @@
 				"globalId": 59,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -16955,7 +16955,7 @@
 				"globalId": 60,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Evil Pumpkin",
@@ -16976,7 +16976,7 @@
 				"globalId": 61,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Creepy Butler",
@@ -16997,7 +16997,7 @@
 				"globalId": 62,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Scalded Psycho",
@@ -17018,7 +17018,7 @@
 				"globalId": 63,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Red Flayed Demon",
@@ -17039,7 +17039,7 @@
 				"globalId": 64,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Skull Burst",
@@ -17060,7 +17060,7 @@
 				"globalId": 65,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Pale Lycanthrope",
@@ -17081,7 +17081,7 @@
 				"globalId": 66,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Toxic Insect",
@@ -17102,7 +17102,7 @@
 				"globalId": 67,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Dirty Sewer Creature",
@@ -17123,7 +17123,7 @@
 				"globalId": 68,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Red Classic Lucifer",
@@ -17144,7 +17144,7 @@
 				"globalId": 69,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Classic Sack Slasher",
@@ -17165,7 +17165,7 @@
 				"globalId": 70,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Blue Hypnotic Alien",
@@ -17186,7 +17186,7 @@
 				"globalId": 71,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Yellow Haggard Witch",
@@ -17207,7 +17207,7 @@
 				"globalId": 72,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Red Bearded Lucifer",
@@ -17232,7 +17232,7 @@
 				"globalId": 73,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -18405,7 +18405,7 @@
 				"globalId": 74,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Manic Gingerbread",
@@ -18426,7 +18426,7 @@
 				"globalId": 75,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Pink Crazy Gingerbread",
@@ -18447,7 +18447,7 @@
 				"globalId": 76,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Bruised Bad Santa",
@@ -18468,7 +18468,7 @@
 				"globalId": 77,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Festive Luchador",
@@ -18501,7 +18501,7 @@
 				"globalId": 78,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Dark Pudding",
@@ -18518,7 +18518,7 @@
 				"globalId": 79,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Beast",
@@ -18539,7 +18539,7 @@
 				"globalId": 80,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black LS Beast",
@@ -18560,7 +18560,7 @@
 				"globalId": 81,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Red Visor Beast",
@@ -18581,7 +18581,7 @@
 				"globalId": 82,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Sweatband Beast",
@@ -18602,7 +18602,7 @@
 				"globalId": 83,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Classic Festive Beast",
@@ -18627,7 +18627,7 @@
 				"globalId": 84,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Abominable Snowman",
@@ -18640,7 +18640,7 @@
 				"globalId": 85,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Raw Turkey",
@@ -18661,7 +18661,7 @@
 				"globalId": 86,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Wasted Mrs Claus",
@@ -18682,7 +18682,7 @@
 				"globalId": 87,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Rebel Bad Elf",
@@ -18703,7 +18703,7 @@
 				"globalId": 88,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Mrs Claus",
@@ -22924,7 +22924,7 @@
 				"globalId": 89,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Combat Mask",
@@ -24303,7 +24303,7 @@
 				"globalId": 90,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Ox Blood Dome Filter",
@@ -27384,7 +27384,7 @@
 				"globalId": 91,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -27437,7 +27437,7 @@
 				"globalId": 92,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Amphibian Sea Beast",
@@ -27470,7 +27470,7 @@
 				"globalId": 93,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Striped Dino",
@@ -27503,7 +27503,7 @@
 				"globalId": 94,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Red Oni",
@@ -27536,7 +27536,7 @@
 				"globalId": 95,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Red Clown",
@@ -27577,7 +27577,7 @@
 				"globalId": 96,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Silverback Crazed Ape",
@@ -27602,7 +27602,7 @@
 				"globalId": 97,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Chestnut Horse",
@@ -27635,7 +27635,7 @@
 				"globalId": 98,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Unicorn",
@@ -27648,7 +27648,7 @@
 				"globalId": 99,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Red Ornate Skull",
@@ -27681,7 +27681,7 @@
 				"globalId": 100,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Moe Pug",
@@ -27714,7 +27714,7 @@
 				"globalId": 101,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Orange Bigness Face",
@@ -27787,7 +27787,7 @@
 				"globalId": 102,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -30768,7 +30768,7 @@
 				"globalId": 103,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Blue Digital Zombie",
@@ -30881,7 +30881,7 @@
 				"globalId": 104,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Blue Digital Tactical Ski",
@@ -30994,7 +30994,7 @@
 				"globalId": 105,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Obsidian Oni",
@@ -31099,7 +31099,7 @@
 				"globalId": 106,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Blue Digital Snake Skull",
@@ -31212,7 +31212,7 @@
 				"globalId": 107,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Blue Digital Vent",
@@ -31317,7 +31317,7 @@
 				"globalId": 108,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Clean Skull",
@@ -40373,7 +40373,7 @@
 				"globalId": 109,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -41000,7 +41000,7 @@
 				"globalId": 110,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Robo",
@@ -41113,7 +41113,7 @@
 				"globalId": 111,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -41226,7 +41226,7 @@
 				"globalId": 112,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Mandible",
@@ -41339,7 +41339,7 @@
 				"globalId": 113,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Skate Tight Ski",
@@ -41436,7 +41436,7 @@
 				"globalId": 114,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Loose",
@@ -41549,7 +41549,7 @@
 				"globalId": 115,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Wrapped",
@@ -41662,7 +41662,7 @@
 				"globalId": 116,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Snood",
@@ -41775,7 +41775,7 @@
 				"globalId": 117,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Bright Stripe Knit",
@@ -41868,7 +41868,7 @@
 				"globalId": 118,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -41981,7 +41981,7 @@
 				"globalId": 119,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Skull Scruffy",
@@ -42090,7 +42090,7 @@
 				"globalId": 120,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -42940,7 +42940,7 @@
 				"globalId": 121,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -42953,7 +42953,7 @@
 				"globalId": 122,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -42974,7 +42974,7 @@
 				"globalId": 123,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -43031,7 +43031,7 @@
 				"globalId": 124,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Manic Luminous",
@@ -43136,7 +43136,7 @@
 				"globalId": 125,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Mono Ballistic",
@@ -43249,7 +43249,7 @@
 				"globalId": 126,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Spec Ops",
@@ -43330,7 +43330,7 @@
 				"globalId": 127,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Festive Gingerbread Hockey",
@@ -43355,7 +43355,7 @@
 				"globalId": 128,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Gray Woodland False Face",
@@ -43428,7 +43428,7 @@
 				"globalId": 129,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Gray Gas Mask",
@@ -43509,7 +43509,7 @@
 				"globalId": 130,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Respirator",
@@ -43594,7 +43594,7 @@
 				"globalId": 131,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Hideous Krampus",
@@ -43619,7 +43619,7 @@
 				"globalId": 132,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Night Vision",
@@ -46452,7 +46452,7 @@
 				"globalId": 133,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Dark Bigness SN Hockey",
@@ -49764,7 +49764,7 @@
 				"globalId": 134,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -49853,7 +49853,7 @@
 				"globalId": 135,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -49918,7 +49918,7 @@
 				"globalId": 136,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Light Brown Death Bird",
@@ -49991,7 +49991,7 @@
 				"globalId": 137,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Stalker",
@@ -50032,7 +50032,7 @@
 				"globalId": 138,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Orange Raider",
@@ -50089,7 +50089,7 @@
 				"globalId": 139,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -50146,7 +50146,7 @@
 				"globalId": 140,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -50203,7 +50203,7 @@
 				"globalId": 141,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -50260,7 +50260,7 @@
 				"globalId": 142,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Dark Brown Marauder",
@@ -50317,7 +50317,7 @@
 				"globalId": 143,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Paco the Taco Mask",
@@ -50330,7 +50330,7 @@
 				"globalId": 144,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Burger Shot Mask",
@@ -50343,7 +50343,7 @@
 				"globalId": 145,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Cluckin' Bell Mask",
@@ -50356,7 +50356,7 @@
 				"globalId": 146,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Blue Optics Headset",
@@ -50433,7 +50433,7 @@
 				"globalId": 147,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -53850,7 +53850,7 @@
 				"globalId": 148,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Impotent Rage Eye Mask",
@@ -53863,7 +53863,7 @@
 				"globalId": 149,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Strawberry Mask",
@@ -53876,7 +53876,7 @@
 				"globalId": 150,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Lemon Mask",
@@ -53889,7 +53889,7 @@
 				"globalId": 151,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Grapes Mask",
@@ -53902,7 +53902,7 @@
 				"globalId": 152,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Pineapple Mask",
@@ -53915,7 +53915,7 @@
 				"globalId": 153,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Cherries Mask",
@@ -53928,7 +53928,7 @@
 				"globalId": 154,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Lucky Seven Mask",
@@ -53941,7 +53941,7 @@
 				"globalId": 155,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Blue Joker",
@@ -53966,7 +53966,7 @@
 				"globalId": 156,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "King of Hearts",
@@ -53991,7 +53991,7 @@
 				"globalId": 157,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Queen of Spades",
@@ -54016,7 +54016,7 @@
 				"globalId": 158,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Jack of Spades",
@@ -54041,7 +54041,7 @@
 				"globalId": 159,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Ace of Spades",
@@ -56521,7 +56521,7 @@
 				"globalId": 160,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Baby Smile",
@@ -56534,7 +56534,7 @@
 				"globalId": 161,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Fig",
@@ -56547,7 +56547,7 @@
 				"globalId": 162,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Piggly",
@@ -56560,7 +56560,7 @@
 				"globalId": 163,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Ape",
@@ -56573,7 +56573,7 @@
 				"globalId": 164,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Grinner",
@@ -56586,7 +56586,7 @@
 				"globalId": 165,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Fluffy Rabbit",
@@ -56599,7 +56599,7 @@
 				"globalId": 166,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -56624,7 +56624,7 @@
 				"globalId": 167,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Sniper",
@@ -56637,7 +56637,7 @@
 				"globalId": 168,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Fleshless",
@@ -56650,7 +56650,7 @@
 				"globalId": 169,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Neck Gaiter",
@@ -56763,7 +56763,7 @@
 				"globalId": 170,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Voyeur",
@@ -56776,7 +56776,7 @@
 				"globalId": 171,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Geo Fox",
@@ -56789,7 +56789,7 @@
 				"globalId": 172,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Geo Ginger & White Cat",
@@ -56810,7 +56810,7 @@
 				"globalId": 173,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Geo Pig",
@@ -56823,7 +56823,7 @@
 				"globalId": 174,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Gray & Red Leather Half Face",
@@ -56932,7 +56932,7 @@
 				"globalId": 175,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Yellow Visor Respirator",
@@ -56957,7 +56957,7 @@
 				"globalId": 176,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Geo Gold Dog",
@@ -56982,7 +56982,7 @@
 				"globalId": 177,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Cerberus",
@@ -56995,7 +56995,7 @@
 				"globalId": 178,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Gray & Red Leather with NVG",
@@ -57104,7 +57104,7 @@
 				"globalId": 179,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Grin",
@@ -59306,7 +59306,7 @@
 				"globalId": 180,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -59367,7 +59367,7 @@
 				"globalId": 181,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Turtle Mask",
@@ -59392,7 +59392,7 @@
 				"globalId": 182,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Mouse Mask",
@@ -59417,7 +59417,7 @@
 				"globalId": 183,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black & Green Tech Mask",
@@ -59490,7 +59490,7 @@
 				"globalId": 184,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Hyena Mask",
@@ -62516,7 +62516,7 @@
 				"globalId": 185,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Spec Ski",
@@ -62629,7 +62629,7 @@
 				"globalId": 186,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Bigness Logo Face",
@@ -62674,7 +62674,7 @@
 				"globalId": 187,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Red Botanical Neck Gaiter",
@@ -62787,7 +62787,7 @@
 				"globalId": 188,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Grotesque Painted",
@@ -62844,7 +62844,7 @@
 				"globalId": 189,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Calavera Mask",
@@ -65164,7 +65164,7 @@
 				"globalId": 190,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -65177,7 +65177,7 @@
 				"globalId": 191,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Clean Horned Skull",
@@ -65202,7 +65202,7 @@
 				"globalId": 192,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Orange Stitched Wire",
@@ -65227,7 +65227,7 @@
 				"globalId": 193,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Plain Spiked Skull",
@@ -65252,7 +65252,7 @@
 				"globalId": 194,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Bearsy",
@@ -65265,7 +65265,7 @@
 				"globalId": 195,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -66930,7 +66930,7 @@
 				"globalId": 196,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Orange Goldfish",
@@ -66955,7 +66955,7 @@
 				"globalId": 197,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Juvenile Gull",
@@ -66980,7 +66980,7 @@
 				"globalId": 198,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Brown Sea Lion",
@@ -68945,7 +68945,7 @@
 				"globalId": 199,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Famine",
@@ -68958,7 +68958,7 @@
 				"globalId": 200,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "White Vintage Vampire",
@@ -68979,7 +68979,7 @@
 				"globalId": 201,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -68992,7 +68992,7 @@
 				"globalId": 202,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "War",
@@ -69005,7 +69005,7 @@
 				"globalId": 203,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Death",
@@ -69018,7 +69018,7 @@
 				"globalId": 204,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Painted Tiger",
@@ -69043,7 +69043,7 @@
 				"globalId": 205,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Pale Vintage Mummy",
@@ -69064,7 +69064,7 @@
 				"globalId": 206,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Horror Pumpkin",
@@ -69077,7 +69077,7 @@
 				"globalId": 207,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Conquest",
@@ -69090,7 +69090,7 @@
 				"globalId": 208,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Vintage Frank",
@@ -69111,7 +69111,7 @@
 				"globalId": 209,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Tech Demon",
@@ -71150,7 +71150,7 @@
 				"globalId": 210,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -71171,7 +71171,7 @@
 				"globalId": 211,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -71184,7 +71184,7 @@
 				"globalId": 212,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -71297,7 +71297,7 @@
 				"globalId": 213,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -71322,7 +71322,7 @@
 				"globalId": 214,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -71335,7 +71335,7 @@
 				"globalId": 215,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Traditional Painted Rabbit",
@@ -71352,7 +71352,7 @@
 				"globalId": 216,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -74835,7 +74835,7 @@
 				"globalId": 217,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Bigness Ski",
@@ -74856,7 +74856,7 @@
 				"globalId": 218,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Contrast Dazzle Sand Castle Ski",
@@ -74877,7 +74877,7 @@
 				"globalId": 219,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "The Gooch",
@@ -74898,7 +74898,7 @@
 				"globalId": 220,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -74919,7 +74919,7 @@
 				"globalId": 221,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -74940,7 +74940,7 @@
 				"globalId": 222,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Scarlet Vintage Devil Mask",
@@ -74953,7 +74953,7 @@
 				"globalId": 223,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Orange Vintage Werewolf Mask",
@@ -74966,7 +74966,7 @@
 				"globalId": 224,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Vintage Witch Mask",
@@ -74979,7 +74979,7 @@
 				"globalId": 225,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Vintage Zombie Mask",
@@ -74992,7 +74992,7 @@
 				"globalId": 226,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Green Vintage Skull Mask",
@@ -77423,7 +77423,7 @@
 				"globalId": 227,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -77436,7 +77436,7 @@
 				"globalId": 228,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Golden Balaclava",
@@ -77449,7 +77449,7 @@
 				"globalId": 229,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Turkey Mask",
@@ -77462,7 +77462,7 @@
 				"globalId": 230,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Luchadora's Mask",
@@ -77487,7 +77487,7 @@
 				"globalId": 231,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Royal Calaca Mask",
@@ -77512,7 +77512,7 @@
 				"globalId": 232,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -77525,7 +77525,7 @@
 				"globalId": 233,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -77558,7 +77558,7 @@
 				"globalId": 234,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Cinco de Mayo Mask",
@@ -77583,7 +77583,7 @@
 				"globalId": 235,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Wooden Dragon Mask",
@@ -77608,7 +77608,7 @@
 				"globalId": 236,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -77621,7 +77621,7 @@
 				"globalId": 237,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "LS Customs Neck Gaiter",
@@ -79438,7 +79438,7 @@
 				"globalId": 238,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -79451,7 +79451,7 @@
 				"globalId": 239,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -79472,7 +79472,7 @@
 				"globalId": 240,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -79493,7 +79493,7 @@
 				"globalId": 241,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Carnival Neck Gaiter",
@@ -79514,7 +79514,7 @@
 				"globalId": 242,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -79535,7 +79535,7 @@
 				"globalId": 243,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "NULL",
@@ -79548,7 +79548,7 @@
 				"globalId": 244,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Demon Goat Mask",
@@ -80997,7 +80997,7 @@
 				"globalId": 245,
 				"faceCovered": "NULL",
 				"isBlank": "NULL",
-				"shrinkFace,": "NULL",
+				"shrinkFace": "NULL",
 				"textures": {
 					"0": {
 						"label": "Black Creepy Cat Mask",
